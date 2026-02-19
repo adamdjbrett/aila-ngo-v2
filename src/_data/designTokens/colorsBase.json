@@ -7,19 +7,28 @@
       "value": "#888888"
     }
   ],
-  "shades_vibrant": [],
+  "shades_vibrant": [
+     {
+      "name": "Purple",
+      "value": "#742a8b"
+    },
+    {
+      "name": "yellow",
+      "value": "#f3ed24"
+    }
+  ],
   "light_dark": [
     {
-      "name": "Pink",
-      "value": "#dd4462"
+      "name": "Teal",
+      "value": "#52c2c3"
     },
     {
-      "name": "Blue",
-      "value": "#4467dd"
+      "name": "Purple",
+      "value": "#742a8b"
     },
     {
-      "name": "Gold",
-      "value": "#fbbe25"
+      "name": "Yellow",
+      "value": "#f3ed24"
     }
   ],
   "standalone": []
