@@ -1,6 +1,6 @@
 :root {
   --island-ready: 0.25rem solid ForestGreen;
-  --island-component: 0.25rem solid goldenrod;
+  --island-component: 0.25rem solid yellowenrod;
 }
 
 is-land[ready] {

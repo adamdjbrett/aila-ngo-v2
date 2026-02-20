@@ -39,28 +39,100 @@
       "value": "#161616"
     },
     {
-      "name": "Pink",
-      "value": "#dd4462"
+      "name": "Purple 100",
+      "value": "#fbecff"
     },
     {
-      "name": "Pink Subdued",
-      "value": "#ce5769"
+      "name": "Purple 200",
+      "value": "#ffddff"
     },
     {
-      "name": "Blue",
-      "value": "#4467dd"
+      "name": "Purple 300",
+      "value": "#f3b7ff"
     },
     {
-      "name": "Blue Subdued",
-      "value": "#4d6cc8"
+      "name": "Purple 400",
+      "value": "#d38feb"
     },
     {
-      "name": "Gold",
-      "value": "#fbbe25"
+      "name": "Purple 500",
+      "value": "#ad62c6"
     },
     {
-      "name": "Gold Subdued",
-      "value": "#f1c15b"
+      "name": "Purple 600",
+      "value": "#873e9f"
+    },
+    {
+      "name": "Purple 700",
+      "value": "#6f2486"
+    },
+    {
+      "name": "Purple 800",
+      "value": "#591c6b"
+    },
+    {
+      "name": "Purple 900",
+      "value": "#250330"
+    },
+    {
+      "name": "yellow 100",
+      "value": "#f4f4d8"
+    },
+    {
+      "name": "yellow 200",
+      "value": "#f0f0ac"
+    },
+    {
+      "name": "yellow 300",
+      "value": "#dbd856"
+    },
+    {
+      "name": "yellow 400",
+      "value": "#bab400"
+    },
+    {
+      "name": "yellow 500",
+      "value": "#948b00"
+    },
+    {
+      "name": "yellow 600",
+      "value": "#716700"
+    },
+    {
+      "name": "yellow 700",
+      "value": "#5b4f00"
+    },
+    {
+      "name": "yellow 800",
+      "value": "#483f00"
+    },
+    {
+      "name": "yellow 900",
+      "value": "#1d1600"
+    },
+    {
+      "name": "Teal",
+      "value": "#52c2c3"
+    },
+    {
+      "name": "Teal Subdued",
+      "value": "#6cbebf"
+    },
+    {
+      "name": "Purple",
+      "value": "#742a8b"
+    },
+    {
+      "name": "Purple Subdued",
+      "value": "#6e3680"
+    },
+    {
+      "name": "yellow",
+      "value": "#f3ed24"
+    },
+    {
+      "name": "yellow Subdued",
+      "value": "#f0ec67"
     }
   ]
 }

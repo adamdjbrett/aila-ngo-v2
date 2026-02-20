@@ -1,6 +1,11 @@
 .logo {
   --gutter: var(--space-xs);
   padding: var(--space-s) 0;
-  font-size: var(--size-step-0);
+  font-size: var(--size-step-min-1);
   text-decoration: none;
+}
+
+.logo img {
+  padding-inline-end: var(--space-s);
+  max-width: var(--size-step-4);
 }
