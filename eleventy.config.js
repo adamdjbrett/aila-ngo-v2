@@ -21,14 +21,21 @@ import filters from './src/_config/filters.js';
 import plugins from './src/_config/plugins.js';
 import shortcodes from './src/_config/shortcodes.js';
 
+// Utils Import
+import { generateExcerpt } from './src/_config/utils/generate-excerpt.js';
+
 export default async function (eleventyConfig) {
+    eleventyConfig.setFrontMatterParsingOptions({
+	excerpt: generateExcerpt,
+});
+
   // --------------------- Events: before build
   eleventyConfig.on('eleventy.before', async () => {
     await events.buildAllCss();
     await events.buildAllJs();
   });
 
-  // --------------------- custom wtach targets
+  // --------------------- custom watch targets
   eleventyConfig.addWatchTarget('./src/assets/**/*.{css,js,svg,png,jpeg}');
   eleventyConfig.addWatchTarget('./src/_includes/**/*.{webc}');
 
