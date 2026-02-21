@@ -1,4 +1,7 @@
 import RemoveMarkdown from 'remove-markdown';
+
+  // --------------------- Strategy taken from https://www.williamkillerud.com/blog/blog-post-excerpts-in-11ty/
+
 export const generateExcerpt = (file) => {
     if (!file.data.date) {
         // Only do this for content pages (that have a date which denotes either a post or page from the export).
