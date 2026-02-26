@@ -42,6 +42,10 @@ export const blog = {
   tagSingle: 'Tag',
   tagPlural: 'Tags',
   tagMore: 'More tags:',
+  // Categories
+  categoriesSingle: 'Category',
+  categoriesPlural: 'Categories',
+  categoriesMore: 'More Categories:',
   // pagination
   paginationLabel: 'Blog',
   paginationPage: 'Page',
