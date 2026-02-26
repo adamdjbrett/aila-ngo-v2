@@ -7,11 +7,11 @@ schema: BlogPosting
   <div class="wrapper flow prose">
     <h1 class="gradient-text">{{ title }}</h1>
 
-    {% if image %}
+    {% if coverImage or image %}
       <!-- image -->
       {%
         imageKeys {
-          "src": image,
+          "src": "/posts/images/" + coverImage,
           "alt": alt or "",
           "credit": credit,
           "loading": "eager",
