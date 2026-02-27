@@ -4,9 +4,9 @@ pagination:
   data: collections.categoriesPages
   size: 1
   alias: category
-permalink: /category/{{ category.categoryName }}/{% if category.pageNumber %}page/{{ category.pageNumber + 1 }}/{% endif %}
+permalink: /category/{{ category.name }}/{% if category.pageNumber %}page/{{ category.pageNumber + 1 }}/{% endif %}
 eleventyComputed:
-  title: '{{ meta.blog.categoriesSingle }}: {{ category.categoryName }}'
+  title: '{{ meta.blog.categoriesSingle }}: {{ category.name }}'
 ---
 
 <custom-masonry layout="50-50">
@@ -40,6 +40,7 @@ eleventyComputed:
   <!-- set target pagination settings in meta.js -->
   {% set metaKey = "blog" %}
   <!-- if the number of items in the collection is greater than the number of items shown on one page -->
+  {% set keyAlias = category %}
   {% if category.pageNumber !== category.totalPages %}
     <!-- include pagination -->
     {% include 'partials/category-pagination.njk' %}

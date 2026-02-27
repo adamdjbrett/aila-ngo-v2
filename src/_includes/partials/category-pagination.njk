@@ -6,18 +6,17 @@
     {# https://github.com/11ty/eleventy/discussions/3987 #}
     {# retrieve index of "current" page, save its value as currentPageIndex so we can reference it later #}
 
-
-    {% set currentPageIndex = category.pageNumber %}
-    {% set totalPages = category.totalPages %}
+    {% set currentPageIndex = keyAlias.pageNumber %}
+    {% set totalPages = keyAlias.totalPages %}
 
     {% set showPrevious = false %}
     {% set showNext = false %}
 
-    {% if category.pageNumber !== 0 %}
+    {% if keyAlias.pageNumber !== 0 %}
         {% set showPrevious = true %}
     {% endif %}
 
-    {% if category.pageNumber != category.totalPages %}
+    {% if keyAlias.pageNumber != keyAlias.totalPages %}
         {% set showNext = true %}
     {% endif %}
 
@@ -43,9 +42,9 @@
     {% endif %}
 
   {% if loop.index <= 1 %}
-    {% set url = '/category/' + category.categoryName + '/' %}
+    {% set url = '/' + keyAlias.type + '/' + keyAlias.name + '/' %}
       {% else %}
-        {% set url = '/category/' + category.categoryName + '/page/' + loop.index + '/' %}
+        {% set url = '/' + keyAlias.type + '/' + keyAlias.name + '/page/' + loop.index + '/' %}
   {% endif %}
 
     {% if loop.index0 <= totalPages %}

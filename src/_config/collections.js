@@ -20,6 +20,27 @@ export const tagList = collection => {
   return Array.from(tagsSet).sort();
 };
 
+export const tagPages = collection => {
+  let paginationSize = 15;
+  // Thanks @zachleat - https://github.com/11ty/eleventy/issues/332#issuecomment-445236776
+  let tagMap = [];
+  let tagsArray = tagList(collection);
+  for (let tagName of tagsArray) {
+    let tagItems = collection.getFilteredByTag(tagName);
+    let pagedItems = chunk(tagItems, paginationSize);
+    for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
+      tagMap.push({
+        name: tagName,
+        type: "tag",
+        totalPages: (max - 1),
+        pageNumber: pageNumber,
+        pageData: pagedItems[pageNumber]
+      });
+    }
+  }
+  return tagMap;
+};
+
 /** All Categories from all posts as a collection */
 
 export const categoriesList = collection => {
@@ -43,7 +64,8 @@ export const categoriesPages = collection => {
     let pagedItems = chunk(categoryItems, paginationSize);
     for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
       categoryMap.push({
-        categoryName: categoryName,
+        name: categoryName,
+        type: "category",
         totalPages: (max - 1),
         pageNumber: pageNumber,
         pageData: pagedItems[pageNumber]

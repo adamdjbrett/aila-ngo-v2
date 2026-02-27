@@ -1,23 +1,31 @@
 ---
 layout: tags
 pagination:
-  data: collections.tagList
+  data: collections.tagPages
   size: 1
   alias: tag
-permalink: /tags/{{ tag | slugify }}/
+permalink: /tag/{{ tag.name }}/{% if tag.pageNumber %}page/{{ tag.pageNumber + 1 }}/{% endif %}
 eleventyComputed:
-  title: '{{ meta.blog.tagSingle }}: {{ tag }}'
+  title: '{{ meta.blog.tagSingle }}: {{ tag.name }}'
 ---
 
 <custom-masonry layout="50-50">
-  {% set itemList = collections[tag] | reverse %}
+  {% set itemList = tag.pageData | reverse %}
   {% for item in itemList %}
-
 		{% include "partials/card-tag.njk" %}
   {% endfor %}
 </custom-masonry>
 
 <h2 class="text-step-2">{{ meta.blog.tagMore }}</h2>
+
+ <!-- set target pagination settings in meta.js -->
+  {% set metaKey = "blog" %}
+  <!-- if the number of items in the collection is greater than the number of items shown on one page -->
+  {% if tag.pageNumber !== tag.totalPages %}
+    <!-- include pagination -->
+    {% set keyAlias = tag %}
+    {% include 'partials/category-pagination.njk' %}
+  {% endif %}
 
 <ul class="taglist | my-s-m cluster gutter-s" role="list">
   {% for tag in collections.tagList %}
