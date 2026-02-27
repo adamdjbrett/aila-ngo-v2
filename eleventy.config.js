@@ -102,7 +102,10 @@ export default async function (eleventyConfig) {
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 
   // --------------------- Events: after build
-  if (process.env.ELEVENTY_RUN_MODE === 'serve') {
+  // Temporarily turn off OG images JPEG build to speed up dev server until eventually tackling OG images 
+  // https://github.com/adamdjbrett/aila-ngo-v2/issues/19
+  const OPENGRAPH = false;
+  if (process.env.ELEVENTY_RUN_MODE === 'serve' && OPENGRAPH !== false) {
     eleventyConfig.on('eleventy.after', events.svgToJpeg);
   }
 
