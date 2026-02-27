@@ -35,7 +35,7 @@ export const categoriesPages = collection => {
   let paginationSize = 15;
   const categoriesPages = collection.getAll().filter((item) => item.data.categories)
 
-
+  // Thanks @zachleat - https://github.com/11ty/eleventy/issues/332#issuecomment-445236776
   let categoryMap = [];
   let categoriesArray = categoriesList(collection);
   for (let categoryName of categoriesArray) {
