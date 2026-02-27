@@ -1,3 +1,5 @@
+import chunk from "lodash.chunk";
+
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
   return collection.getFilteredByGlob('./src/posts/**/*.md').reverse();
@@ -30,18 +32,24 @@ export const categoriesList = collection => {
 };
 
 export const categoriesPages = collection => {
-  const categoriesSet = new Set();
+  let paginationSize = 15;
   const categoriesPages = collection.getAll().filter((item) => item.data.categories)
-  
-  categoriesPages.forEach(item => {
-    if (!item.data.categories) return;
-    item.data.categories.forEach(category => categoriesSet.add(category));
-  });
-  
-  const genCategories = Array.from(categoriesSet).reduce((accumulator, category) => {
-    accumulator[category] = categoriesPages.filter((item) => item.data.categories.includes(category))
-    return accumulator;
-  }, {})
 
-  return genCategories;
+
+  let categoryMap = [];
+  let categoriesArray = categoriesList(collection);
+  for (let categoryName of categoriesArray) {
+    let categoryItems = categoriesPages.filter((item) => item.data.categories.includes(categoryName));
+    let pagedItems = chunk(categoryItems, paginationSize);
+    for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
+      categoryMap.push({
+        categoryName: categoryName,
+        totalPages: (max - 1),
+        pageNumber: pageNumber,
+        pageData: pagedItems[pageNumber]
+      });
+    }
+  }
+  return categoryMap;
 };
+

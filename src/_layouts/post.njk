@@ -27,19 +27,27 @@ schema: BlogPosting
       {%- endif %}
       <!-- date -->
       {% set definedDate = date %} {% include "partials/date.njk" %}
-      {%
-        if tags.length >
-        1
-      %}
-        <!-- tags -->
-        {% for tag in tags %}{% if tag != "posts" %}
-          <a class="button" href="/tags/{{ tag | slugify }}/" data-small-button> {{ tag }} </a>
-        {% endif %}{% endfor %}
-      {% endif %}
+       {% if categories %}
+       <span>in</span>
+          <!-- categories -->
+          {% for category in categories %}
+          {% if category != "posts" %}
+            <a href="/category/{{ category | slugify }}/"> {{ category | capitalize }} </a>
+          {% endif %}
+          {% endfor %}
+        {% endif %}
     </p>
 
     {{ content | safe }}
-    {% include 'partials/edit-on.njk' %}
+<div>
+<hr />
+    {% if tags.length > 1 %}
+          <!-- tags -->
+          {% for tag in tags %}{% if tag != "posts" %}
+            <a class="button" href="/tags/{{ tag | slugify }}/" data-small-button> {{ tag }} </a>
+          {% endif %}{% endfor %}
+        {% endif %}
+ </div>
   </div>
 
   <!--  h-card infos: https://indieweb.org/authorship -->

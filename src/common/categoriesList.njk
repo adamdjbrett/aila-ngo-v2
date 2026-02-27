@@ -4,13 +4,13 @@ pagination:
   data: collections.categoriesPages
   size: 1
   alias: category
-permalink: /category/{{ category | slugify }}/
+permalink: /category/{{ category.categoryName }}/{% if category.pageNumber %}page/{{ category.pageNumber + 1 }}/{% endif %}
 eleventyComputed:
-  title: '{{ meta.blog.categoriesSingle }}: {{ category }}'
+  title: '{{ meta.blog.categoriesSingle }}: {{ category.categoryName }}'
 ---
 
 <custom-masonry layout="50-50">
-  {% set itemList = collections.categoriesPages[category] | reverse %}
+  {% set itemList = category.pageData | reverse %}
   {% for item in itemList %}
         {% include "partials/card-tag.njk" %}
   {% endfor %}
@@ -36,3 +36,11 @@ eleventyComputed:
     </li>
   {% endfor %}
 </ul>
+
+  <!-- set target pagination settings in meta.js -->
+  {% set metaKey = "blog" %}
+  <!-- if the number of items in the collection is greater than the number of items shown on one page -->
+  {% if category.pageNumber !== category.totalPages %}
+    <!-- include pagination -->
+    {% include 'partials/category-pagination.njk' %}
+  {% endif %}
