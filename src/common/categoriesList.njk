@@ -16,6 +16,16 @@ eleventyComputed:
   {% endfor %}
 </custom-masonry>
 
+  <!-- set target pagination settings in meta.js -->
+  {% set metaKey = "blog" %}
+  <!-- if the number of items in the collection is greater than the number of items shown on one page -->
+  {% set keyAlias = category %}
+
+  {% if category.totalPages !== 0 %}
+    <!-- include pagination -->
+    {% include 'partials/category-pagination.njk' %}
+  {% endif %}
+
 <h2 class="text-step-2">{{ meta.blog.categoriesMore }}</h2>
 
 <ul class="categorieslist | my-s-m cluster gutter-s" role="list">
@@ -36,12 +46,3 @@ eleventyComputed:
     </li>
   {% endfor %}
 </ul>
-
-  <!-- set target pagination settings in meta.js -->
-  {% set metaKey = "blog" %}
-  <!-- if the number of items in the collection is greater than the number of items shown on one page -->
-  {% set keyAlias = category %}
-  {% if category.pageNumber !== category.totalPages %}
-    <!-- include pagination -->
-    {% include 'partials/category-pagination.njk' %}
-  {% endif %}

@@ -21,7 +21,7 @@ eleventyComputed:
  <!-- set target pagination settings in meta.js -->
   {% set metaKey = "blog" %}
   <!-- if the number of items in the collection is greater than the number of items shown on one page -->
-  {% if tag.pageNumber !== tag.totalPages %}
+  {% if category.totalPages !== 0 %}
     <!-- include pagination -->
     {% set keyAlias = tag %}
     {% include 'partials/category-pagination.njk' %}
