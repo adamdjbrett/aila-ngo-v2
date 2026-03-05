@@ -9,7 +9,7 @@ We provide culturally grounded legal services for Indigenous peoples. We partner
 
 .
 
-![Tina Thomas: To the Onondaga Nation, the arrival of nesting eagles at Onondaga Lake is a manifestation of thanksgiving. Credit: Mike Greenlar | Central Current](images/tina-thomas-central-current-1024x977.jpg)
+![Tina Thomas: To the Onondaga Nation, the arrival of nesting eagles at Onondaga Lake is a manifestation of thanksgiving. Credit: Mike Greenlar | Central Current](/assets/images/content/tina-thomas-central-current-1024x977.jpg)
 
 ## Supporting Indigenous Sovereignty through education and healing.
 
@@ -35,14 +35,14 @@ Value change for survival. ~ Faithkeeper Oren Lyons
 
 We are committed to fulfilling its purpose and vision as it strives to defend Mother Earth and leave behind a better world for the next seven generations. In our struggle for sovereignty, human rights, and social justice, we remain committed to upholding the principles and values handed down through the generations by our ancestors. Sovereignty, balance, social justice, and environmental justice are not separate spheres for us. Instead, we understand them to be all interrelated components of the same thing: honoring Mother Earth, following our ancestors’ teachings, and making the world a better place for the seven generations yet to come.
 
-![Windows of a building in Nuremberg, Germany](images/windows.webp)
+![Windows of a building in Nuremberg, Germany](/assets/images/content/windows.webp)
 
-![An empty staircase under an angular roof in Darling Harbour, Sydney, Australia](images/angular-roof.webp)
+![An empty staircase under an angular roof in Darling Harbour, Sydney, Australia](/assets/images/content/angular-roof.webp)
 
-![Art Gallery of Ontario, Toronto, Canada](images/art-gallery.webp)
+![Art Gallery of Ontario, Toronto, Canada](/assets/images/content/art-gallery.webp)
 
-![Building exterior in Toronto, Canada](images/building-exterior.webp)
+![Building exterior in Toronto, Canada](/assets/images/content/building-exterior.webp)
 
-![A ramp along a curved wall in the Kiasma Museu, Helsinki, Finland](images/museum.webp)
+![A ramp along a curved wall in the Kiasma Museu, Helsinki, Finland](/assets/images/content/museum.webp)
 
-![Tourist taking photo of a building](images/tourist-and-building.webp)
+![Tourist taking photo of a building](/assets/images/content/tourist-and-building.webp)

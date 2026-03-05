@@ -13,7 +13,7 @@ Liverpool, NY, 13088
 
 \[contact-form-7 id="229214c" title="Contact form"\]
 
-![The American Indian Law Alliance logo is an eagle resting on the great tree of peace and the white roots of peace. The tree rests on the back of Turtle Island. A Haudenosaunee man and woman stand in front of the the tree holding the Hiawatha Belt.](images/cropped-AILA-new-circle-logo2.png)
+![The American Indian Law Alliance logo is an eagle resting on the great tree of peace and the white roots of peace. The tree rests on the back of Turtle Island. A Haudenosaunee man and woman stand in front of the the tree holding the Hiawatha Belt.](/assets//assets/images/content/content/cropped-AILA-new-circle-logo2.png)
 
 [Email Us](mailto:aila@aila.ngo)
 
