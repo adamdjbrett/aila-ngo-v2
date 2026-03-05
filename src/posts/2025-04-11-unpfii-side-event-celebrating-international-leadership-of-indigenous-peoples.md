@@ -9,7 +9,7 @@ tags:
   - "event"
   - "un"
   - "unpfii"
-coverImage: "en1.jpg"
+coverImage: "/assets/images/content/en1.jpg"
 ---
 
 [![](images/en1-300x300.jpg)](http://aila.ngo/wp-content/uploads/2025/04/en1.jpg) [![](images/en2-300x300.jpg)](http://aila.ngo/wp-content/uploads/2025/04/en2.jpg)Accompanying the event is the book launch for "Indigenous Peoples in the International Arena: The Global Movement for Self-Determination" by Elsa Stamatopoulou and the short Film "_The International Movement of Indigenous Peoples: We Continue_"

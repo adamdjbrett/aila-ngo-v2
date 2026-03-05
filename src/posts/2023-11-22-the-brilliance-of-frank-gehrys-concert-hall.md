@@ -3,7 +3,7 @@ title: "The Brilliance of Frank Gehry’s Concert Hall"
 date: 2023-11-22
 categories: 
   - "news"
-coverImage: "modern-architecture.webp"
+coverImage: "/assets/images/content/modern-architecture.webp"
 ---
 
 The Los Angeles concert hall is a stunning example of Gehry’s signature style, which combines organic forms and metallic materials to create dynamic and expressive structures. The building’s exterior is composed of curved and angular panels of stainless steel, which reflect the light and the surrounding environment. The building’s shape evokes the image of a ship’s sails, or a musical instrument, depending on the viewer’s perspective and imagination.

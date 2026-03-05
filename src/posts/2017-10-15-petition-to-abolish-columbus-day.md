@@ -9,7 +9,7 @@ tags:
   - "haudenosaunee"
   - "indigenouspeoplesday"
   - "notmyhero"
-coverImage: "abolish-columbus-day.png"
+coverImage: "/assets/images/content/abolish-columbus-day.png"
 ---
 
 Please sign & share widely!

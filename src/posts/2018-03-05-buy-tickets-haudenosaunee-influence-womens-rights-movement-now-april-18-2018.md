@@ -10,7 +10,7 @@ tags:
   - "haudenosaunee"
   - "nyc"
   - "womens-rights"
-coverImage: "Haudenosaunee-influence-womens-rights.png"
+coverImage: "/assets/images/content/Haudenosaunee-influence-womens-rights.png"
 ---
 
 #### Details:

@@ -8,7 +8,7 @@ tags:
   - "lake"
   - "onondaga"
   - "onondaga-lake"
-coverImage: "onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---
 
 To the Editor:

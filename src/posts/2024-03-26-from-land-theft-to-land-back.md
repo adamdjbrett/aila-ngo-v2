@@ -11,7 +11,7 @@ tags:
   - "un"
   - "united-nations"
   - "unpfii"
-coverImage: "onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---
 
 ## From Land Theft To Land Back The OAS And The Onondaga Nation Land Rights Action

@@ -8,7 +8,7 @@ tags:
   - "defense"
   - "fund"
   - "legal"
-coverImage: "legal-defense-fund.png"
+coverImage: "/assets/images/content/legal-defense-fund.png"
 ---
 
 

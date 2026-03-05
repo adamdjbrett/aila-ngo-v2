@@ -3,7 +3,7 @@ title: "NY State is Hiring"
 date: 2024-05-10
 categories: 
   - "news"
-coverImage: "campaign_flyer_2024-scaled.jpg"
+coverImage: "/assets/images/content/campaign_flyer_2024-scaled.jpg"
 ---
 
 We are excited to announce the launch of the **New York Hiring for Emergency Limited Placement Statewide (NY HELPS) program.**

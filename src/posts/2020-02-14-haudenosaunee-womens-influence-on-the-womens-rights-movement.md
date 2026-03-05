@@ -9,7 +9,7 @@ tags:
   - "indigenous"
   - "matilda-effect"
   - "womens-suffrage"
-coverImage: "Haudenosaunee-Womens-Influence-Facebook.png"
+coverImage: "/assets/images/content/Haudenosaunee-Womens-Influence-Facebook.png"
 ---
 
 `Cancelled due to COVID-19 Concerns`

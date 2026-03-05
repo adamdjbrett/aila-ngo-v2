@@ -7,7 +7,7 @@ tags:
   - "doctrine-of-christian-discovery"
   - "doctrine-of-discovery"
   - "podcast"
-coverImage: "doctrine-christian-discovery.webp"
+coverImage: "/assets/images/content/doctrine-christian-discovery.webp"
 ---
 
 We are excited to announce a wonderful new collaborative limited series podcast, [The Doctrine of Christian Discovery](https://goodfaithmedia.org/doctrine-of-christian-discovery/). This podcast was produced in collaboration with Good Faith Media, Indigenous Values Initiative, Syracuse University, and many other wonderful partners. The podcast provides insights into the historic and important conference, [The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery](https://doctrineofdiscovery.org/blog/conference-schedule/). This conference was a unique gathering of artists, scholars, and activists from all over the world. It highlighted the international legacy and impact of 1) Johnson v. M'Intosh, the U.S. Law heard around the world, and 2) the Doctrine of Discovery.  This podcast showcases the range of issues impacted by these two phenomena and helps to illustrate where we are today and how to move forward into a better world and live in the right and proper relationship with Mother Earth. We hope this podcast will be useful in introductory courses, small group discussions, and organizing spaces.

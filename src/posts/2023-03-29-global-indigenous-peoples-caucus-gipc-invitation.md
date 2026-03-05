@@ -11,7 +11,7 @@ tags:
   - "global"
   - "indigenous"
   - "peoples"
-coverImage: "1.png"
+coverImage: "/assets/images/content/1.png"
 ---
 
 [Télécharger le flyer en français](http://aila.ngo/wp-content/uploads/2023/03/FR-01-GIPC.pdf)

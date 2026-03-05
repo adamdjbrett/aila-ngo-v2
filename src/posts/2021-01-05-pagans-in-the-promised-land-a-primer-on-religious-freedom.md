@@ -7,7 +7,7 @@ tags:
   - "doctrine-of-discovery"
   - "religious-freedom"
   - "united-nations"
-coverImage: "pagans-in-the-promise-land.jpg"
+coverImage: "/assets/images/content/pagans-in-the-promise-land.jpg"
 ---
 
 _Significant aspects of this research were published in the New York University Review of Law & Social Change_ (Vol. 20, Number 2, 1993), “The Evidence of Christian Nationalism in Federal Indian Law.”

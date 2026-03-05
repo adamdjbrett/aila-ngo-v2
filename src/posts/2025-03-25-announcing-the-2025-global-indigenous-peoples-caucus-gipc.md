@@ -10,7 +10,7 @@ tags:
   - "indigenous-peoples"
   - "united-nations"
   - "unpfii"
-coverImage: "1.png"
+coverImage: "/assets/images/content/1.png"
 ---
 
 ## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-peoples-caucus-gipc/#ru)

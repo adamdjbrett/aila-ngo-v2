@@ -11,7 +11,7 @@ tags:
   - "pandemic"
   - "sovereignty"
   - "tek"
-coverImage: "democratizing-knowledges-scaled.jpg"
+coverImage: "/assets/images/content/democratizing-knowledges-scaled.jpg"
 ---
 
 **Webinar: Centering Native American and Indigenous Communities: Decolonizing Pandemic Politics**     

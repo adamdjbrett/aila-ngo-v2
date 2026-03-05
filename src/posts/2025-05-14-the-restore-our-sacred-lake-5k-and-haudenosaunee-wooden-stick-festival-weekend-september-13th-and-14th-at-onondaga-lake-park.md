@@ -14,7 +14,7 @@ tags:
   - "restore-sacred-lake"
   - "run"
   - "wooden-stick"
-coverImage: "WSF-and-Restore-Our-Lake.png"
+coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
 ---
 
 [![2025 Event flyer](images/Copy-of-2025-WSF-5K-Vertical-Randy-819x1024.png)](http://aila.ngo/wp-content/uploads/2025/05/Copy-of-2025-WSF-5K-Vertical-Randy.png)

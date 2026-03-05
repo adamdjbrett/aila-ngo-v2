@@ -8,7 +8,7 @@ tags:
   - "native-americans"
   - "nodapl"
   - "water"
-coverImage: "No_Pipelines_Poster.png"
+coverImage: "/assets/images/content/No_Pipelines_Poster.png"
 ---
 
 Say no to the Dakota Access Pipeline. [Respect indigenous sovereignty](/issues/sovereignty/), sacred lands, and treat [Mother Earth](/issues/rights-mother-earth/) with dignity.

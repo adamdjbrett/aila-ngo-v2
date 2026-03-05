@@ -3,7 +3,7 @@ title: "The Dance of Light and Shadow in Staircase Design"
 date: 2023-11-21
 categories: 
   - "news"
-coverImage: "spiral-staircase.webp"
+coverImage: "/assets/images/content/spiral-staircase.webp"
 ---
 
 Staircases are not just a means of connecting different levels of a building. They also express the personality of the architect and the client. Modern staircases can be a statement of elegance and sophistication, a focal point of a space. Let's explore how modern staircase design can use light and shadow to enhance the aesthetic appeal of a space.

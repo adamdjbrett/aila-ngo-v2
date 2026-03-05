@@ -10,7 +10,7 @@ tags:
   - "un"
   - "united-nations"
   - "unpfii"
-coverImage: "3.png"
+coverImage: "/assets/images/content/3.png"
 ---
 
 ## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-indigenous-craft-fair/#ru) .

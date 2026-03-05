@@ -7,7 +7,7 @@ tags:
   - "cicadas"
   - "haudenosaunee"
   - "onondaga"
-coverImage: "cicadas-return-onondaga-nation-photo-by-kyle-adams-NYT.jpg"
+coverImage: "/assets/images/content/cicadas-return-onondaga-nation-photo-by-kyle-adams-NYT.jpg"
 ---
 
 From the NY Daily News:

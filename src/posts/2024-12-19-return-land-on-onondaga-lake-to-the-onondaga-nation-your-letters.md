@@ -7,7 +7,7 @@ tags:
   - "lake"
   - "news"
   - "onondaga"
-coverImage: "onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---
 
 [Syracuse.com Editorial Op-Ed](https://www.syracuse.com/opinion/2024/12/return-land-on-onondaga-lake-to-the-onondaga-nation-your-letters.html)

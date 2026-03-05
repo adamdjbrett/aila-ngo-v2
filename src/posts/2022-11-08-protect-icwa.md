@@ -6,7 +6,7 @@ categories:
 tags: 
   - "boarding-schools"
   - "icwa"
-coverImage: "unnamed.png"
+coverImage: "/assets/images/content/unnamed.png"
 ---
 
 The Indian Child Welfare Act (ICWA) goes before the Supreme Court of the United States tomorrow in the landmark case _[Brackeen v Haaland (2021)](https://law.justia.com/cases/federal/appellate-courts/ca5/18-11479/18-11479-2021-04-06.html)_.  This case puts Indigenous children, sovereignty, and Indigenous lands at risk.

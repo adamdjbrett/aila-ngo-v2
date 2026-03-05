@@ -12,7 +12,7 @@ tags:
   - "lacrosse"
   - "race"
   - "wooden-stick"
-coverImage: "WSF-and-Restore-Our-Lake.png"
+coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
 ---
 
 [![](images/2024-5K-and-WSF-791x1024.png)](http://aila.ngo/wp-content/uploads/2024/03/2024-5K-and-WSF.png)

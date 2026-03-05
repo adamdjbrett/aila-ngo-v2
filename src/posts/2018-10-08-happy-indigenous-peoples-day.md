@@ -9,7 +9,7 @@ tags:
   - "haudenosaunee"
   - "indigenous-peoples"
   - "sovereignty"
-coverImage: "Highline-College-Celebrate-Indigenous-Peoples-Day.jpg"
+coverImage: "/assets/images/content/Highline-College-Celebrate-Indigenous-Peoples-Day.jpg"
 ---
 
 > Happy Indigenous People’s Day.  

@@ -7,7 +7,7 @@ tags:
   - "film"
   - "firefighter"
   - "onvfd"
-coverImage: "onvfd.jpg"
+coverImage: "/assets/images/content/onvfd.jpg"
 ---
 
 Onondaga Nation received [1,000 acres](https://web.archive.org/web/20241205070653/https://dailyorange.com/2024/09/onondaga-nation-reclaims-ancestral-land/ "1,000 acres") back this month - one of the largest land back wins in New York State history.

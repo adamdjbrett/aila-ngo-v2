@@ -8,7 +8,7 @@ tags:
   - "indigenous"
   - "memorial"
   - "unpfii"
-coverImage: "tupac-enrique-acosta-event.jpg"
+coverImage: "/assets/images/content/tupac-enrique-acosta-event.jpg"
 ---
 
 UNPFII 23rd Session Side Event Honoring the Life and Legacy of Tupac Enrique Acosta (1952-2023)

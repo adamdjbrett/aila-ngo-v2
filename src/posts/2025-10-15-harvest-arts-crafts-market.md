@@ -8,7 +8,7 @@ tags:
   - "haudenosaunee"
   - "indigenous-peoples"
   - "onondaga"
-coverImage: "Fall-Festival-Flyer-scaled.png"
+coverImage: "/assets/images/content/Fall-Festival-Flyer-scaled.png"
 ---
 
 Please come join us for the American Indian Law Alliance Fall Harvest Art & Craft Market

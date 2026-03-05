@@ -12,7 +12,7 @@ tags:
   - "indigenous"
   - "unpfii"
   - "women"
-coverImage: "2.png"
+coverImage: "/assets/images/content/2.png"
 ---
 
 ## English & Española

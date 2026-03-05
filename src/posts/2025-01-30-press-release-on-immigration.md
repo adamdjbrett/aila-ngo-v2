@@ -3,7 +3,7 @@ title: "Press Release on Immigration"
 date: 2025-01-30
 categories: 
   - "news"
-coverImage: "aila-immgiration.jpg"
+coverImage: "/assets/images/content/aila-immgiration.jpg"
 ---
 
 For Immediate Release

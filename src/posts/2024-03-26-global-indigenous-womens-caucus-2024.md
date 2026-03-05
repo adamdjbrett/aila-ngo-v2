@@ -11,7 +11,7 @@ tags:
   - "united-nations"
   - "unpfii"
   - "women"
-coverImage: "2.png"
+coverImage: "/assets/images/content/2.png"
 ---
 
 ## 2024 GIWC Caucus Statement

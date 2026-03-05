@@ -10,7 +10,7 @@ tags:
   - "mission-schools"
   - "residential-schools"
   - "theywerechildren"
-coverImage: "They-were-Children-March-Mike-Greenlar.jpg"
+coverImage: "/assets/images/content/They-were-Children-March-Mike-Greenlar.jpg"
 ---
 
 We remember the stolen generations and the devastation caused by the church and state collaborating to commit genocide in their attempt to erase Oñgwehoñwe’ peoples. 

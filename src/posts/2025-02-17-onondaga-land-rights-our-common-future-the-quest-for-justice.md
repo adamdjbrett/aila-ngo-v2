@@ -8,7 +8,7 @@ tags:
   - "haudenosaunee"
   - "lake"
   - "onondaga"
-coverImage: "onondaga-lake-east-shoreline-1600x600-1.jpg"
+coverImage: "/assets/images/content/onondaga-lake-east-shoreline-1600x600-1.jpg"
 ---
 
 ## Onondaga Land Rights & Our Common Future: The Quest For Justice

@@ -10,7 +10,7 @@ tags:
   - "mmiwg2s"
   - "nilj"
   - "press-release"
-coverImage: "cropped-AILA-new-circle-logo2.png"
+coverImage: "/assets/images/content/cropped-AILA-new-circle-logo2.png"
 ---
 
 FOR IMMEDIATE RELEASE

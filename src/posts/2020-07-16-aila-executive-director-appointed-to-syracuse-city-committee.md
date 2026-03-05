@@ -7,7 +7,7 @@ tags:
   - "columbus"
   - "racism"
   - "statues"
-coverImage: "1024px-Syracuse_NY_downtown.jpg"
+coverImage: "/assets/images/content/1024px-Syracuse_NY_downtown.jpg"
 ---
 
 [Syracuse Mayor Walsh appoints Columbus Circle committee](https://www.syracuse.com/news/2020/07/syracuse-mayor-walsh-appoints-columbus-circle-committee.html).

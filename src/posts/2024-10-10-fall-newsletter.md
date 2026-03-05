@@ -5,7 +5,7 @@ categories:
   - "news"
 tags: 
   - "newsletter"
-coverImage: "ian-dooley-DJ7bWa-Gwks-unsplash-scaled.jpg"
+coverImage: "/assets/images/content/ian-dooley-DJ7bWa-Gwks-unsplash-scaled.jpg"
 ---
 
 ## ✏️ Recent Highlights

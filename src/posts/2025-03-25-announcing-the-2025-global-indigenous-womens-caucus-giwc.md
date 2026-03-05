@@ -9,7 +9,7 @@ tags:
   - "indigenous-peoples"
   - "unpfii"
   - "women"
-coverImage: "2.png"
+coverImage: "/assets/images/content/2.png"
 ---
 
 ## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-womens-caucus-giwc/#ru)

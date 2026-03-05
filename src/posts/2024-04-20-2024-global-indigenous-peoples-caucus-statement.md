@@ -11,7 +11,7 @@ tags:
   - "indigenous"
   - "statement"
   - "unpfii"
-coverImage: "1.png"
+coverImage: "/assets/images/content/1.png"
 ---
 
 [English PDF](http://aila.ngo/wp-content/uploads/2024/04/2024-GIPC-EN.pdf)

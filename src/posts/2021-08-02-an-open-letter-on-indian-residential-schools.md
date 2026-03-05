@@ -11,7 +11,7 @@ tags:
   - "mission-schools"
   - "residential-schools"
   - "theywerechildren"
-coverImage: "They-were-Children-March-Mike-Greenlar.jpg"
+coverImage: "/assets/images/content/They-were-Children-March-Mike-Greenlar.jpg"
 ---
 
 [A revised and updated version of this letter has now been published with The Nation](https://www.thenation.com/article/society/indigenous-residential-boarding-schools-canada/).
