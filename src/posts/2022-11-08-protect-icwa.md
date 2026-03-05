@@ -15,7 +15,7 @@ When Richard Henry Pratt founded the Indian Residential School system and Carlis
 
 _Brackeen v. Haaland_ as it is written and supported by states like Texas threatens not only to undo ICWA but also attempts to legally strip away Indigenous peoples inherent right to sovereignty. The case seeks to undermine Indigenous sovereignty by not seeing as separate cultural and political entitles from the United States (For more see law professor Peter D’Errico’s analysis). As NDN Collective notes the attorney for Brackeen is Gibson Dunn who has represented oil and gas companies like the Dakota Access Pipeline (DAPL) so extractive industries executives are also watching this case closely.
 
-\[caption id="attachment\_17867" align="aligncenter" width="768"\][![Steps to take to protect ICWA. Image by @WiisagiMaiingan on twitter. The steps are included in this post.](images/protect-icwa2-768x1024.jpeg)](http://aila.ngo/wp-content/uploads/2022/11/protect-icwa2.jpeg) Image by @WiisagiMaiingan on twitter\[/caption\]
+\[caption id="attachment\_17867" align="aligncenter" width="768"\][![Steps to take to protect ICWA. Image by @WiisagiMaiingan on twitter. The steps are included in this post.](/assets/images/content/protect-icwa2-768x1024.jpeg)](http://aila.ngo/wp-content/uploads/2022/11/protect-icwa2.jpeg) Image by @WiisagiMaiingan on twitter\[/caption\]
 
 ## What can you do?
 

@@ -118,4 +118,4 @@ _Steven T. Newcomb (Shawnee/Lenape) is director of the Indigenous Law Institute 
 
 ### Watch Domination Code Film
 
-[![Domination Code film by Steven T Newcomb](images/doctrine-of-discovery-unmasking-domination-code.jpg)](https://vimeo.com/ondemand/dominationcode)
+[![Domination Code film by Steven T Newcomb](/assets/images/content/doctrine-of-discovery-unmasking-domination-code.jpg)](https://vimeo.com/ondemand/dominationcode)

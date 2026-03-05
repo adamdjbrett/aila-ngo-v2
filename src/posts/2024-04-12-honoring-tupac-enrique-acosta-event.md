@@ -15,13 +15,13 @@ UNPFII 23rd Session Side Event Honoring the Life and Legacy of Tupac Enrique Aco
 
 Tupac dedicated his life to working with Indigenous Nations and Peoples, and Organizations, advocating for the rights of Indigenous Peoples and the Territorial Integrity of Mother Earth. Join us as we remember Tupac and the impact he had on the Indigenous Peoples Movement.
 
-[![](images/TUPAC-EN-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-EN.jpg)
+[![](/assets/images/content/TUPAC-EN-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-EN.jpg)
 
-[![](images/TUPAC-ES-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-ES.jpg)
+[![](/assets/images/content/TUPAC-ES-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-ES.jpg)
 
-[![](images/TUPAC-RU-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-RU.jpg)
+[![](/assets/images/content/TUPAC-RU-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-RU.jpg)
 
-[![](images/TUPAC-FR-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-FR.jpg)
+[![](/assets/images/content/TUPAC-FR-791x1024.jpg)](http://aila.ngo/wp-content/uploads/2024/04/TUPAC-FR.jpg)
 
 ### Event Details
 

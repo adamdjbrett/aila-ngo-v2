@@ -16,7 +16,7 @@ To spread the word, we are also kicking off a new public awareness campaign to i
 
 **Please help us get the word out that there are _thousands_ of careers with New York State**! Please visit the following link to access a campaign video and information brochure to share with your communities:
 
-![NY State is Hiring Poster](images/campaign_flyer_2024-791x1024.jpg)
+![NY State is Hiring Poster](/assets/images/content/campaign_flyer_2024-791x1024.jpg)
 
 https://cs.ny.gov/marketing-campaign-2024/
 

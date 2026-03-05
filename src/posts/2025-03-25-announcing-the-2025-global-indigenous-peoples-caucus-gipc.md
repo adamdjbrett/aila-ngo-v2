@@ -15,7 +15,7 @@ coverImage: "/assets/images/content/1.png"
 
 ## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-peoples-caucus-gipc/#ru)
 
-[![](images/2025-GIPC-POSTER-EN-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-EN.pdf)
+[![](/assets/images/content/2025-GIPC-POSTER-EN-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-EN.pdf)
 
 ## English
 
@@ -91,7 +91,7 @@ Thank you to our sponsors
 
 ###  Estimadas hermanas y hermanos:
 
-[![](images/2025-GIPC-POSTER-ES-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-ES.pdf)
+[![](/assets/images/content/2025-GIPC-POSTER-ES-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-ES.pdf)
 
 Los invitamos a que nos acompañen el 19 y el 20 de abril de 2025 de 9:00 a 15:00 en el segundo piso del Church Center de las Naciones Unidas (CCUN) situado en el 777 United Nations Plaza, NY 10017, en Nueva York. Estamos deseando darle la bienvenida en persona a cada uno de ustedes.
 
@@ -154,7 +154,7 @@ Muchas gracias a nuestros patrocinadores:
 
 ## **Invitation au Caucus global des Peuples Autochtones**
 
-### [![](images/2025-GIPC-POSTER-FR-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-FR.pdf)
+### [![](/assets/images/content/2025-GIPC-POSTER-FR-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-FR.pdf)
 
 ### Chers tous,
 
@@ -229,7 +229,7 @@ Merci à nos sponsors :
 
 ## **Приглашение на Глобальный совет Коренных Народов (ГСКН)**
 
-### [![](images/2025-GIPC-POSTER-RU-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-RU.pdf)
+### [![](/assets/images/content/2025-GIPC-POSTER-RU-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-RU.pdf)
 
 ### Дорогие братья и сёстры,
 
