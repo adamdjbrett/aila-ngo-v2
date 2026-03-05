@@ -1,0 +1,5 @@
+{
+  "layout": "page",
+  "tags": "issues",
+  "permalink": "/issues/{{ page.fileSlug | slugify }}/index.html"
+}
