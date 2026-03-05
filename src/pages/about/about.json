@@ -1,0 +1,5 @@
+{
+  "layout": "page",
+  "tags": "about",
+  "permalink": "/about/{{ page.fileSlug | slugify }}/index.html"
+}
