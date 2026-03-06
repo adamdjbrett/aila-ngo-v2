@@ -51,10 +51,10 @@ Upholding UNDRIP Article 29 and the legally binding Paris Agreement, particularl
 
 We urge the creation of an international treaty recognizing fossil fuel expansion as a form of violence and genocide against Indigenous Peoples. Additionally, the Rights of Nature must be made legally binding to ensure the protection of Mother Earth and future generations.
 
-- [English (PDF)](http://aila.ngo/wp-content/uploads/2025/04/20d.-GIWC-2025-Intervention-Item-4_EN.pdf)
+- [English (PDF)](/assets/documents/20d.-GIWC-2025-Intervention-Item-4_EN.pdf)
 
-- [Español (PDF)](http://aila.ngo/wp-content/uploads/2025/04/20a.-GIWC-2025-Intervention-Item-4_ES.pdf)
+- [Español (PDF)](/assets/documents/20a.-GIWC-2025-Intervention-Item-4_ES.pdf)
 
-- [Français (PDF)](http://aila.ngo/wp-content/uploads/2025/04/20b.-GIWC-2025-Intervention-Item-4_FR.pdf)
+- [Français (PDF)](/assets/documents/20b.-GIWC-2025-Intervention-Item-4_FR.pdf)
 
-- [Русский (PDF)](http://aila.ngo/wp-content/uploads/2025/04/20c.-GIWC-2025-Intervention-Item-4_RU.pdf)
+- [Русский (PDF)](/assets/documents/20c.-GIWC-2025-Intervention-Item-4_RU.pdf)

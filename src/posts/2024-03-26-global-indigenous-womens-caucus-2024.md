@@ -62,9 +62,9 @@ Thank you to our sponsors
 
 - Tonatierra
 
--  [English Flyer](http://aila.ngo/wp-content/uploads/2024/03/2024-GIWC-English.pdf)
+-  [English Flyer](/assets/documents/2024-GIWC-English.pdf)
 
-- [English Agenda](http://aila.ngo/wp-content/uploads/2024/03/GIWC-Agenda-2024_EN.pdf)
+- [English Agenda](/assets/documents/GIWC-Agenda-2024_EN.pdf)
 
 ## Española
 
@@ -108,12 +108,12 @@ Muchas gracias a nuestros patrocinadores:
 
 - Tonatierra
 
-- [Agenda Española](http://aila.ngo/wp-content/uploads/2024/03/GIWC-Agenda-2024_ES.pdf)
+- [Agenda Española](/assets/documents/GIWC-Agenda-2024_ES.pdf)
 
-- [Folleto Español](http://aila.ngo/wp-content/uploads/2024/03/2024-GIWC-Spanish.pdf)
+- [Folleto Español](/assets/documents/2024-GIWC-Spanish.pdf)
 
 ## French and Russian
 
-- [Invitation](http://aila.ngo/wp-content/uploads/2024/03/GWIC-2024-FR.pdf), [dépliant](http://aila.ngo/wp-content/uploads/2024/03/2024-GIWC-French.pdf), [ordre du jour](http://aila.ngo/wp-content/uploads/2024/03/GIWC-Agenda-2024_FR.pdf) en français
+- [Invitation](/assets/documents/GWIC-2024-FR.pdf), [dépliant](/assets/documents/2024-GIWC-French.pdf), [ordre du jour](/assets/documents/GIWC-Agenda-2024_FR.pdf) en français
 
-- Российское [приглашение](http://aila.ngo/wp-content/uploads/2024/03/GWIC-2024-RU.pdf), [флаер](http://aila.ngo/wp-content/uploads/2024/03/2024-GIWC-Russian.pdf), [повестка дня](http://aila.ngo/wp-content/uploads/2024/03/GIWC-Agenda-2024_RU.pdf)
+- Российское [приглашение](/assets/documents/GWIC-2024-RU.pdf), [флаер](/assets/documents/2024-GIWC-Russian.pdf), [повестка дня](/assets/documents/GIWC-Agenda-2024_RU.pdf)

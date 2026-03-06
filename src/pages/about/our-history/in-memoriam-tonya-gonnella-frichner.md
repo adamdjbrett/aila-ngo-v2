@@ -6,7 +6,7 @@ coverImage: "frichner-nyt1.jpg"
 
 ### Tonya Gonnella Frichner (Onondaga Nation) 1947-2015, Emeritus
 
-## [![](/assets/images/content/frichner.jpg)](/wp-content/uploads/2013/12/frichner.jpg)
+## [![](/assets/images/content/frichner.jpg)](/assets/documents/frichner.jpg)
 
 #### **Founder**
 

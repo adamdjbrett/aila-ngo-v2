@@ -15,7 +15,7 @@ coverImage: "/assets/images/content/1.png"
 
 ## [English](#en) |  [Español](#es) | [Français](fr) | [Russian](http://aila.ngo/announcing-the-2025-global-indigenous-peoples-caucus-gipc/#ru)
 
-[![](/assets/images/content/2025-GIPC-POSTER-EN-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-EN.pdf)
+[![](/assets/images/content/2025-GIPC-POSTER-EN-768x1024.png)](/assets/documents/2025-GIPC-POSTER-EN.pdf)
 
 ## English
 
@@ -55,11 +55,11 @@ We ask that in preparation for the Global Indigenous People's Caucus you do the 
 - [Review of the 2024 Statement](http://aila.ngo/2024-global-indigenous-peoples-caucus-statement/)
 - [Review of the 2023 Statement](http://aila.ngo/global-indigenous-peoples-caucus-statement-for-unpfii22/)
 - [Review of the 2022 Statement](http://aila.ngo/global-indigenous-peoples-outcome-document/)
-- [Review of the 2018 Statement](http://aila.ngo/wp-content/uploads/2025/04/GIPC-2018-statement.pdf)
-- [Review of the 2017 Statement](http://aila.ngo/wp-content/uploads/2025/04/2017-GIPC.pdf)
-- [Review of the 2016 Statement](http://aila.ngo/wp-content/uploads/2025/04/2016-GIWC.pdf)
-- [Review of the 2015 Statement](http://aila.ngo/wp-content/uploads/2025/04/2015-GIWC.pdf)
-- [Review of the 2014 Statement](http://aila.ngo/wp-content/uploads/2025/04/2014-GIWC.pdf)
+- [Review of the 2018 Statement](/assets/documents/GIPC-2018-statement.pdf)
+- [Review of the 2017 Statement](/assets/documents/2017-GIPC.pdf)
+- [Review of the 2016 Statement](/assets/documents/2016-GIWC.pdf)
+- [Review of the 2015 Statement](/assets/documents/2015-GIWC.pdf)
+- [Review of the 2014 Statement](/assets/documents/2014-GIWC.pdf)
 
 Breakfast and lunch will be provided; no registration is necessary; as always, all Indigenous Peoples are welcome. As more logistical information becomes available, it will be shared here and on the GIPC listserv. If you have questions, please email **aila@aila.ngo** .
 
@@ -83,7 +83,7 @@ Thank you to our sponsors
 - Sacred Places Institute for Indigenous Peoples (SPI)
 - Tonatierra
 
-- Agenda [EN](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-EN.pdf) , [ES](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-ES.pdf) , [FR](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-FR.pdf) , [RU](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-RU.pdf)
+- Agenda [EN](/assets/documents/2025-GIPC-AGENDA-EN.pdf) , [ES](/assets/documents/2025-GIPC-Agenda-ES.pdf) , [FR](/assets/documents/2025-GIPC-AGENDA-FR.pdf) , [RU](/assets/documents/2025-GIPC-Agenda-RU.pdf)
 
 ## Spanish
 
@@ -91,7 +91,7 @@ Thank you to our sponsors
 
 ###  Estimadas hermanas y hermanos:
 
-[![](/assets/images/content/2025-GIPC-POSTER-ES-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-ES.pdf)
+[![](/assets/images/content/2025-GIPC-POSTER-ES-768x1024.png)](/assets/documents/2025-GIPC-POSTER-ES.pdf)
 
 Los invitamos a que nos acompañen el 19 y el 20 de abril de 2025 de 9:00 a 15:00 en el segundo piso del Church Center de las Naciones Unidas (CCUN) situado en el 777 United Nations Plaza, NY 10017, en Nueva York. Estamos deseando darle la bienvenida en persona a cada uno de ustedes.
 
@@ -148,13 +148,13 @@ Muchas gracias a nuestros patrocinadores:
 - Sacred Places Institute for Indigenous Peoples (SPI)
 - Tonatierra
 
-- Agenda [EN](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-EN.pdf), [ES](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-ES.pdf), [FR](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-FR.pdf), [RU](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-RU.pdf)
+- Agenda [EN](/assets/documents/2025-GIPC-AGENDA-EN.pdf), [ES](/assets/documents/2025-GIPC-Agenda-ES.pdf), [FR](/assets/documents/2025-GIPC-AGENDA-FR.pdf), [RU](/assets/documents/2025-GIPC-Agenda-RU.pdf)
 
 ## Français
 
 ## **Invitation au Caucus global des Peuples Autochtones**
 
-### [![](/assets/images/content/2025-GIPC-POSTER-FR-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-FR.pdf)
+### [![](/assets/images/content/2025-GIPC-POSTER-FR-768x1024.png)](/assets/documents/2025-GIPC-POSTER-FR.pdf)
 
 ### Chers tous,
 
@@ -223,13 +223,13 @@ Merci à nos sponsors :
 - Sacred Places Institute for Indigenous Peoples (SPI)
 - Tonatierra
 
-- Agenda [EN](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-EN.pdf), [ES](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-ES.pdf), [FR](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-FR.pdf), [RU](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-RU.pdf)
+- Agenda [EN](/assets/documents/2025-GIPC-AGENDA-EN.pdf), [ES](/assets/documents/2025-GIPC-Agenda-ES.pdf), [FR](/assets/documents/2025-GIPC-AGENDA-FR.pdf), [RU](/assets/documents/2025-GIPC-Agenda-RU.pdf)
 
 ## Русский
 
 ## **Приглашение на Глобальный совет Коренных Народов (ГСКН)**
 
-### [![](/assets/images/content/2025-GIPC-POSTER-RU-768x1024.png)](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-RU.pdf)
+### [![](/assets/images/content/2025-GIPC-POSTER-RU-768x1024.png)](/assets/documents/2025-GIPC-POSTER-RU.pdf)
 
 ### Дорогие братья и сёстры,
 
@@ -288,7 +288,7 @@ We thank our sponsors
 - Indigenous Sacred Sites Institute (SPI)
 - Tonatierra
 
-- Agenda [EN](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-EN.pdf) , [ES](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-ES.pdf) , [FR](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-FR.pdf) , [RU](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-RU.pdf)
+- Agenda [EN](/assets/documents/2025-GIPC-AGENDA-EN.pdf) , [ES](/assets/documents/2025-GIPC-Agenda-ES.pdf) , [FR](/assets/documents/2025-GIPC-AGENDA-FR.pdf) , [RU](/assets/documents/2025-GIPC-Agenda-RU.pdf)
 
 * * *
 
@@ -298,6 +298,6 @@ We thank our sponsors
 
 ## Скачать
 
-- Invitations [EN](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Invitation-EN.pdf) , [ES](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-invitation-ES.pdf) , [FR](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Invitation-FR.pdf) , [RU](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Invitation-RU.pdf)
-- Agenda [EN](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-EN.pdf) , [ES](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-ES.pdf) , [FR](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-AGENDA-FR.pdf) , [RU](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-Agenda-RU.pdf)
-- Flyer [EN](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-EN.pdf) , [ES](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-ES.pdf) , [FR](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-FR.pdf) , [RU](http://aila.ngo/wp-content/uploads/2025/03/2025-GIPC-POSTER-RU.pdf)
+- Invitations [EN](/assets/documents/2025-GIPC-Invitation-EN.pdf) , [ES](/assets/documents/2025-GIPC-invitation-ES.pdf) , [FR](/assets/documents/2025-GIPC-Invitation-FR.pdf) , [RU](/assets/documents/2025-GIPC-Invitation-RU.pdf)
+- Agenda [EN](/assets/documents/2025-GIPC-AGENDA-EN.pdf) , [ES](/assets/documents/2025-GIPC-Agenda-ES.pdf) , [FR](/assets/documents/2025-GIPC-AGENDA-FR.pdf) , [RU](/assets/documents/2025-GIPC-Agenda-RU.pdf)
+- Flyer [EN](/assets/documents/2025-GIPC-POSTER-EN.pdf) , [ES](/assets/documents/2025-GIPC-POSTER-ES.pdf) , [FR](/assets/documents/2025-GIPC-POSTER-FR.pdf) , [RU](/assets/documents/2025-GIPC-POSTER-RU.pdf)

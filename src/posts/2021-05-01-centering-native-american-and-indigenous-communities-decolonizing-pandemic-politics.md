@@ -38,4 +38,4 @@ Bottom half of the page: From left to right, picture of Betty Lyons, picture of 
 
 Footer: six logos from left to right: Syracuse University Humanities Center, Light Work, Women in Science and Engineering (WISE), Syracuse University College of Arts and Sciences, Women’s and Gender Studies, and African American Studies.
 
-[Download a PDF of the flyer](/wp-content/uploads/2021/05/Centering-indigenous-voices.pdf).
+[Download a PDF of the flyer](/assets/documents/Centering-indigenous-voices.pdf).

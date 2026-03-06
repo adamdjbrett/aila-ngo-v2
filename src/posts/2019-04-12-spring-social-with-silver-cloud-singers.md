@@ -30,4 +30,4 @@ Sponsors:
 - [LaMaMa Indigenous Initiative](https://lamama.org/programs/indigenous_initiative/)
 - [American Indian Law Alliance](http://aila.ngo)
 
-[⤓ Download the Spring Social Flyer as a PDF](/wp-content/uploads/2019/04/springsocial2019-rev2.pdf)
+[⤓ Download the Spring Social Flyer as a PDF](/assets/documents/springsocial2019-rev2.pdf)

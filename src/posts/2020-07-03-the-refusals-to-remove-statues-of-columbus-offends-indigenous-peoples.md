@@ -17,13 +17,13 @@ Our Executive Director Gaeñ hia uh/Betty Lyons (Onondaga Nation, Snipe Clan) we
 
 https://soundcloud.com/user-18109193/07-02-20-cpseg4
 
-#### [⤓ Read the transcript (Download as a PDF)](/wp-content/uploads/2020/07/July_2_2020_Cuomos_resistance_on_Columbus_statues_offends_NYs_indigenous_community.pdf)
+#### [⤓ Read the transcript (Download as a PDF)](/assets/documents/July_2_2020_Cuomos_resistance_on_Columbus_statues_offends_NYs_indigenous_community.pdf)
 
 ### The City of Syracuse must remove the statue of Columbus
 
 - [Sign the Petition](https://www.change.org/p/mayor-ben-walsh-remove-racist-monument-in-syracuse?utm_source=share_petition&utm_medium=custom_url&recruited_by_id=dd5f42b0-3835-11e8-a833-c79cc0606a87)
 - Sign as an Organization
-- [View a PDF of the Letter sent to Mayor Walsh of Syracuse](https://indigenousvalues.org/wp-content/uploads/2020/07/Mayor-Walsh-Columbus-15-Jun-20-final.pdf)
+- [View a PDF of the Letter sent to Mayor Walsh of Syracuse](https://indigenousvalues.org/assets/documents/Mayor-Walsh-Columbus-15-Jun-20-final.pdf)
 
 ### Other articles:
 

@@ -27,6 +27,6 @@ coverImage: "/assets/images/content/Screenshot-2024-04-13-at-9.51.53 AM.png"
 
 - For information contact Rochelle Diver at [rochelle@treatycouncil.org](mailto:rochelle@treatycouncil.org)
 
-- [English Flyer PDF](http://aila.ngo/wp-content/uploads/2024/04/UNPFII_SIDE_EVENT_ENG_FINAL.pdf)
+- [English Flyer PDF](/assets/documents/UNPFII_SIDE_EVENT_ENG_FINAL.pdf)
 
-- [Spanish Flyer PDF](http://aila.ngo/wp-content/uploads/2024/04/UNPFII_SIDE_EVENT_ESP_FINAL.pdf)
+- [Spanish Flyer PDF](/assets/documents/UNPFII_SIDE_EVENT_ESP_FINAL.pdf)

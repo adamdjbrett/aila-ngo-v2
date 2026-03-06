@@ -18,4 +18,4 @@ April 21 at 5:00PM
 
 UN Church Center, Floor 10 777 United Nations Plaza, NY
 
-[Haudenosaunee Nationals Event Flyer (Download as a PDF)](http://aila.ngo/wp-content/uploads/2025/04/Haudenosaunee-Nationals-Event.pdf)
+[Haudenosaunee Nationals Event Flyer (Download as a PDF)](/assets/documents/Haudenosaunee-Nationals-Event.pdf)

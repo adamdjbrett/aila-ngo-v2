@@ -48,10 +48,10 @@ Indigenous peoples are particularly vulnerable to forced labor and human and sex
 
 We call upon the UNPFII to follow up on the Sixteenth Session’s recommendation “that national and transnational corporations adhere to the United Nations Guiding Principles on Business and Human Rights in order to ensure the protection of the rights of Indigenous human rights defenders” (Session 16 p. 077).
 
-- [EN (Final)](/wp-content/uploads/2022/07/13.-EN_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)
+- [EN (Final)](/assets/documents/13.-EN_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)
 
-- [ES](/wp-content/uploads/2022/07/13.-ES_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)
+- [ES](/assets/documents/13.-ES_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)
 
-- [FR](/wp-content/uploads/2022/07/13.-FR_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)
+- [FR](/assets/documents/13.-FR_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)
 
-- [RU](/wp-content/uploads/2022/07/13.-RU_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)
+- [RU](/assets/documents/13.-RU_Global-Indigenous-Peoples-Caucus-Outcome-Document.pdf)

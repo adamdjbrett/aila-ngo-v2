@@ -18,7 +18,7 @@ The craft fair is cash only.
 
 If you have questions, email aila@aila.ngo
 
-[Download the English Flyer](http://aila.ngo/wp-content/uploads/2023/03/EN-03-craft-fair.pdf)
+[Download the English Flyer](/assets/documents/EN-03-craft-fair.pdf)
 
 ## **Español**
 
@@ -32,7 +32,7 @@ En la feria solo se aceptan pagos en efectivo.
 
 Si tienen alguna pregunta, pónganse en contacto con aila@aila.ngo.
 
-[Descargar el folleto en español](http://aila.ngo/wp-content/uploads/2023/03/ES-03-craft-fair.pdf)
+[Descargar el folleto en español](/assets/documents/ES-03-craft-fair.pdf)
 
 ## **Français**
 
@@ -46,7 +46,7 @@ Les paiements sur le marché artisanal se font uniquement en argent liquide.
 
 Pour toute question, contactez aila@aila.ngo
 
-[Télécharger le dépliant en français](http://aila.ngo/wp-content/uploads/2023/03/FR-03-craft-fair.pdf)
+[Télécharger le dépliant en français](/assets/documents/FR-03-craft-fair.pdf)
 
 ## **Русский**
 
@@ -60,7 +60,7 @@ Pour toute question, contactez aila@aila.ngo
 
 Если у вас есть вопросы, пишите на [aila@aila.ngo](mailto:aila@aila.ngo)
 
-[Скачать русский флаер (PDF)](http://aila.ngo/wp-content/uploads/2023/03/RU-03-craft-fair.pdf)
+[Скачать русский флаер (PDF)](/assets/documents/RU-03-craft-fair.pdf)
 
 ### Special thanks to
 

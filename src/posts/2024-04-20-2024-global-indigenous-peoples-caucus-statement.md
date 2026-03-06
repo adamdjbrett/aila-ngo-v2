@@ -14,7 +14,7 @@ tags:
 coverImage: "/assets/images/content/1.png"
 ---
 
-[English PDF](http://aila.ngo/wp-content/uploads/2024/04/2024-GIPC-EN.pdf)
+[English PDF](/assets/documents/2024-GIPC-EN.pdf)
 
 # UN Permanent Forum on Indigenous Issues, 23rd Session April 15th  - 26th, 2024  
 Statement on behalf of Global Indigenous Peoples Organizations preparatory meeting April 12th-13th and 14th, 2024, at the UN Church Center.

@@ -53,6 +53,6 @@ The American Indian Law Alliance (AILA) is committed to supporting Indigenous so
 
 ## Downloads
 
-- [Download the American Indian Law Alliance Brochure.](/wp-content/uploads/2018/02/AILA-Brochure.pdf)
+- [Download the American Indian Law Alliance Brochure.](/assets/documents/AILA-Brochure.pdf)
 
-- [Download a high resolution copy of the American Indian Law Alliance Logo](http://aila.ngo/wp-content/uploads/2022/10/AILA-new-circle-logo2.png).
+- [Download a high resolution copy of the American Indian Law Alliance Logo](/assets/documents/AILA-new-circle-logo2.png).

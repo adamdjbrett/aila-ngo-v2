@@ -15,7 +15,7 @@ When Richard Henry Pratt founded the Indian Residential School system and Carlis
 
 _Brackeen v. Haaland_ as it is written and supported by states like Texas threatens not only to undo ICWA but also attempts to legally strip away Indigenous peoples inherent right to sovereignty. The case seeks to undermine Indigenous sovereignty by not seeing as separate cultural and political entitles from the United States (For more see law professor Peter D’Errico’s analysis). As NDN Collective notes the attorney for Brackeen is Gibson Dunn who has represented oil and gas companies like the Dakota Access Pipeline (DAPL) so extractive industries executives are also watching this case closely.
 
-\[caption id="attachment\_17867" align="aligncenter" width="768"\][![Steps to take to protect ICWA. Image by @WiisagiMaiingan on twitter. The steps are included in this post.](/assets/images/content/protect-icwa2-768x1024.jpeg)](http://aila.ngo/wp-content/uploads/2022/11/protect-icwa2.jpeg) Image by @WiisagiMaiingan on twitter\[/caption\]
+\[caption id="attachment\_17867" align="aligncenter" width="768"\][![Steps to take to protect ICWA. Image by @WiisagiMaiingan on twitter. The steps are included in this post.](/assets/images/content/protect-icwa2-768x1024.jpeg)](/assets/documents/protect-icwa2.jpeg) Image by @WiisagiMaiingan on twitter\[/caption\]
 
 ## What can you do?
 
@@ -28,7 +28,7 @@ _Brackeen v. Haaland_ as it is written and supported by states like Texas threat
 
 ## Educate Yourself
 
-- Tonya Gonnella Frichner, “[The Indian Child Welfare Act: A National Law Controlling the Welfare of Indigenous Children](http://aila.ngo/wp-content/uploads/2022/11/The-Indian-Child-Welfare-Act.v3-1.pdf "<span style=\"font-weight: 400;\">The Indian Child Welfare Act: A National Law Controlling the Welfare of Indigenous Children</span>")” (PDF).
+- Tonya Gonnella Frichner, “[The Indian Child Welfare Act: A National Law Controlling the Welfare of Indigenous Children](/assets/documents/The-Indian-Child-Welfare-Act.v3-1.pdf "<span style=\"font-weight: 400;\">The Indian Child Welfare Act: A National Law Controlling the Welfare of Indigenous Children</span>")” (PDF).
 - Peter D’Errico, [Brackeen v. Haaland, the Indian Child Welfare Act case now in the Supreme Court: Seen in Perspective](https://web.archive.org/web/20230324162705/https://blogs.umass.edu/derrico/2022/11/07/brackeen-v-haaland-the-indian-child-welfare-act-case-now-in-the-supreme-court-seen-in-perspective/).
 - Gaeñ hia uh/Betty Lyons, “[Truth and Justification: On the Cruelties Against Indigenous People](https://www.thenation.com/article/society/indigenous-residential-boarding-schools-canada/)”
 - [This Land Podcast](https://crooked.com/podcast-series/this-land/) by Crooked Media

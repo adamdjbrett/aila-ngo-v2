@@ -46,4 +46,4 @@ This event features Indigenous women leaders and non-Native feminist activists h
  
 
 - ➡︎ Visit Matilda Effect for more information.
-- [⬇︎ Download the event poster](/wp-content/uploads/2020/02/Haudenosaunee-women-influence-web.jpg)
+- [⬇︎ Download the event poster](/assets/documents/Haudenosaunee-women-influence-web.jpg)

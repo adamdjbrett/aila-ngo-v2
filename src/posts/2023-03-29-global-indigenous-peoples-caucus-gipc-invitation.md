@@ -14,7 +14,7 @@ tags:
 coverImage: "/assets/images/content/1.png"
 ---
 
-[Télécharger le flyer en français](http://aila.ngo/wp-content/uploads/2023/03/FR-01-GIPC.pdf)
+[Télécharger le flyer en français](/assets/documents/FR-01-GIPC.pdf)
 
 # **Global Indigenous Peoples Caucus (GIPC) Invitation** 
 
@@ -72,7 +72,7 @@ We ask that in preparation for the Global Indigenous People’s Caucus that you 
 
 Breakfast and lunch will be provided; no registration is necessary; as always, all Indigenous Peoples. As more logistical information becomes available, it will be shared here and on the GIPC listserv. If you have questions, please email aila@aila.ngo.
 
-[Download English Flyer](http://aila.ngo/wp-content/uploads/2023/03/EN-02-GIPC.pdf)
+[Download English Flyer](/assets/documents/EN-02-GIPC.pdf)
 
 * * *
 
@@ -128,9 +128,9 @@ Les rogamos que, con vistas a prepararse para el Caucus Mundial de Pueblos Indí
 
 Se servirá desayuno y comida. No es necesario registrarse. Como siempre, todos los Pueblos Indígenas son bienvenidos. A medida que haya más información logística disponible, se publicará aquí y en el listserv de GIPC. Si tienen alguna pregunta, pónganse en contacto con aila@aila.ngo.
 
-- [Télécharger le flyer en français](http://aila.ngo/wp-content/uploads/2023/03/FR-01-GIPC.pdf)
+- [Télécharger le flyer en français](/assets/documents/FR-01-GIPC.pdf)
 
--  [Descargar el folleto en español](http://aila.ngo/wp-content/uploads/2023/03/ES-02-GIPC.pdf)
+-  [Descargar el folleto en español](/assets/documents/ES-02-GIPC.pdf)
 
 * * *
 
@@ -186,7 +186,7 @@ En préparation du Caucus Mondial des Peuples Autochtones, nous vous demandons d
 
 Le petit-déjeuner et le déjeuner seront offerts ; aucune inscription n’est nécessaire ; comme toujours, tous les peuples autochtones sont les bienvenus. À mesure que des informations logistiques sont disponibles, elles seront communiquées ici et sur la liste de diffusion GIPC. Si vous avez des questions, veuillez contacter [aila@aila.ngo](mailto:aila@aila.ngo).
 
-[Télécharger le flyer en français](http://aila.ngo/wp-content/uploads/2023/03/FR-01-GIPC.pdf)
+[Télécharger le flyer en français](/assets/documents/FR-01-GIPC.pdf)
 
 * * *
 
@@ -240,7 +240,7 @@ Le petit-déjeuner et le déjeuner seront offerts ; aucune inscription n’est n
 
 Предоставляются завтрак и обед; регистрация не требуется; как всегда, приглашаются все женщины из числа коренных народов. По мере поступления информации о логистике, она будет распространяться здесь и на сайте GIPC. Если у вас есть вопросы, пожалуйста, пишите на [aila@aila.ngo](mailto:aila@aila.ngo).
 
-[Скачать русский флаер](http://aila.ngo/wp-content/uploads/2023/03/RU-02-GIPC.pdf)
+[Скачать русский флаер](/assets/documents/RU-02-GIPC.pdf)
 
 ## Special thanks to
 

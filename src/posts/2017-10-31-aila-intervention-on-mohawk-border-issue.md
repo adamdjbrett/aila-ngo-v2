@@ -12,4 +12,4 @@ coverImage: "/assets/images/content/1440px-Cornwall-Ontario-New-Bridge-2014.jpeg
 
 Betty Lyons, Executive Director of the American Indian Law Alliance, intervenes at the United Nations on behalf of the Mohawk Nation in regards to a border dispute.
 
-<!--more--> /wp-content/uploads/2015/07/BettyLyonsVideo.mp4
+<!--more--> /assets/documents/BettyLyonsVideo.mp4

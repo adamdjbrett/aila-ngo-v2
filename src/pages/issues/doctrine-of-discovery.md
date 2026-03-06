@@ -10,7 +10,7 @@ coverImage: "doctrine-of-discovery.jpg"
 
 Papal Bulls issues in the 15th century provided Christian explorers the imagined right to assert that the lands they "discovered"  were now under the authority of the Christian Monarchs of Europe. The Papal Bulls asserted that any land that was not inhabited by Christians was available to be "discovered", claimed, and exploited. If the "pagan" or “saracen” inhabitants could be converted, they might be spared. If not, they could be enslaved or killed. The legacy and horror of these Papal Bulls is still impacting Indigenous nations and peoples today. 
 
-\[caption id="attachment\_10755" align="aligncenter" width="1024"\][![In a painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)](/assets/images/content/Christopher_Columbus3-Dioscoro-Puebla-1024x656.jpg)](/wp-content/uploads/2021/01/Christopher_Columbus3-Dioscoro-Puebla.jpg) A painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)\[/caption\]
+\[caption id="attachment\_10755" align="aligncenter" width="1024"\][![In a painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)](/assets/images/content/Christopher_Columbus3-Dioscoro-Puebla-1024x656.jpg)](/assets/documents/Christopher_Columbus3-Dioscoro-Puebla.jpg) A painting by Dioscoro Puebla, Christopher Columbus is shown arriving in the New World — the West Indies — on Oct. 12, 1492. (Wikimedia Commons)\[/caption\]
 
 With a flag and on bended knee these evil acts were sanctified and made them lawful in the eyes of the churches and crowns of Europe. The notions that all parts of the globe that weren't Europe like the African Continent and Turtle Island/Abya Yala was “discovered” and “terra nullius” \[null and void\] are theological and legal fictions which are still exercised as law today and weaponized against Indigenous nations and peoples denying them land, rights, and resources.
 
@@ -20,7 +20,7 @@ In fact, [the Doctrine of Discovery](https://doctrineofdiscovery.org/) is the ba
 
 Presently more than 500 million Indigenous peoples around the globe live today with the effects of the Doctrine's oppressive racism.
 
-\[su\_button url="https://aila.ngo/wp-content/uploads/2022/05/Doctrine-of-Discovery-Booklet-rev3.1.pdf" target="blank" background="#000" size="6" center="yes" icon="icon: download" download="Doctrine of Discovery Booklet PDF Download"\]Download an educational booklet (PDF)\[/su\_button\]
+\[su\_button url="/assets/documents/Doctrine-of-Discovery-Booklet-rev3.1.pdf" target="blank" background="#000" size="6" center="yes" icon="icon: download" download="Doctrine of Discovery Booklet PDF Download"\]Download an educational booklet (PDF)\[/su\_button\]
 
 ### [➞ Learn more about the Doctrine of Discovery at doctrineofdiscovery.org](https://doctrineofdiscovery.org/)
 
@@ -53,13 +53,13 @@ The campaign was ordered and organized by George Washington and his staff believ
 
  
 
-_The Written Preliminary Study Shows_ [_‘Doctrine of Discovery’ Legal Construct_](/wp-content/uploads/2010/09/DOD5.pdf) _Historical Root for Ongoing Violations of Indigenous Peoples’ Rights, Permanent Forum Told_
+_The Written Preliminary Study Shows_ [_‘Doctrine of Discovery’ Legal Construct_](/assets/documents/DOD5.pdf) _Historical Root for Ongoing Violations of Indigenous Peoples’ Rights, Permanent Forum Told_
 
 _Prepared and presented by Tonya Gonnella Frichner North American Regional Special Rapporteur  April 27, 2010_
 
 The "Preliminary study on the impact on indigenous peoples of the international legal construct known as the Doctrine of Discovery" (E/C.19/2010/13) presented at the Ninth Session authored by Tonya Gonnella Frichner, Esq. (Onondaga Nation), former North American Representative to the UN Permanent Forum on Indigenous Issues. We recognize the legal construct known as the [Doctrine of Discovery](/issues/doctrine-of-discovery/) has global implications. As established in the preliminary study and reaffirmed in the more recent study, as mentioned above, the Doctrine of Discovery has been invoked as a justification for the ongoing exploitation of our lands, territories and resources which violates [UNDRIP Article 7](https://web.archive.org/web/20241126141121/https://www.un.org/development/desa/indigenouspeoples/wp-content/uploads/sites/19/2018/11/UNDRIP_E_web.pdf), the collective right to live in freedom and shall not be subjected to any act of genocide or violence including forcibly removing children of the group to another group. 
 
-\[su\_button url="https://aila.ngo/wp-content/uploads/2010/09/DOD5.pdf" target="blank" background="#000" size="6" center="yes" icon="icon: download" download="Preliminary Report PDF Download"\] Read the Preliminary Report (PDF)\[/su\_button\]
+\[su\_button url="/assets/documents/DOD5.pdf" target="blank" background="#000" size="6" center="yes" icon="icon: download" download="Preliminary Report PDF Download"\] Read the Preliminary Report (PDF)\[/su\_button\]
 
  
 

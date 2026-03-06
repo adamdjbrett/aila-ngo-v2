@@ -17,13 +17,13 @@ tags:
 coverImage: "/assets/images/content/WSF-and-Restore-Our-Lake.png"
 ---
 
-[![2025 Event flyer](/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-819x1024.png)](http://aila.ngo/wp-content/uploads/2025/05/Copy-of-2025-WSF-5K-Vertical-Randy.png)
+[![2025 Event flyer](/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-819x1024.png)](/assets/documents/Copy-of-2025-WSF-5K-Vertical-Randy.png)
 
 ## Restore Our Sacred Lake 5K
 
 We follow the Thanksgiving Address by protecting Mother Earth. The eagle has returned to Onondaga Lake for the first time in over 200 years. We invite runners and walkers to come to Onondaga Lake for a day of celebration. This event will raise awareness of the importance of the lake and the urgency of furthering the cleanup efforts.
 
-[Draft Festival Program](http://aila.ngo/wp-content/uploads/2025/09/2025-Wooden-Stick-Festival-Program-web.pdf)
+[Draft Festival Program](/assets/documents/2025-Wooden-Stick-Festival-Program-web.pdf)
 
 ### Race Details
 
@@ -77,13 +77,13 @@ Now accepting craft vendors (as of June 27, 2025).
 
 3. [Pay online](http://aila.li/pay)
 
-5. [Print or email us your signed hold harmless](http://aila.ngo/wp-content/uploads/2024/04/2024-hold-harmless-rev3.pdf)
+5. [Print or email us your signed hold harmless](/assets/documents/2024-hold-harmless-rev3.pdf)
 
 * * *
 
 ## Smoke Dance Details
 
-[![](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](http://aila.ngo/wp-content/uploads/2025/05/2025-Smoke-Dance-update.jpg)
+[![](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/documents/2025-Smoke-Dance-update.jpg)
 
 ### Team and Vendor Fees
 
@@ -157,9 +157,9 @@ There will be referees, a tent for changing, and a box-sized field marked out on
 
 Thomas Randall “Randy” Hall, Akwesasne Mohawk Wolf Clan, passed away on January 18, 2018. He served in Vietnam with the US Army (1965-68) and participated in the 1972 AIM take-over of the Bureau of Indian Affairs in Washington, D.C. He loved sports and was deeply involved with the Onondaga Athletic Club, where he played and coached lacrosse and basketball. One of Randy’s favorite things to do was to travel and play in tournaments. In his memory, the Haudenosaunee Wooden Stick Festival honors Randy by naming the Wooden Stick tournament after him. The inaugural Haudenosaunee Wooden Stick Festival was held at Onondaga Lake in 2013. Previously, the game was only played exclusively on Haudenosaunee Nation territories. So in 2013, Randy Hall asked Philip P. Arnold and Sandy Bigtree for help to bring the game back to Onondaga Lake––its place of origin. The Peacemaker arrived at Onondaga Lake well over 1,000 years ago to bring peace to five warring nations. Few realize that Deyhontsigwa’ehs, the Creator’s Game, was an integral part of this peacemaking process. This ancient game is still played ceremonially among the Haudenosaunee. It is played hard, but always played to foster good relationships between human beings and the natural world.
 
-[![](/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1-819x1024.png)](http://aila.ngo/wp-content/uploads/2025/05/Copy-of-2025-WSF-5K-Vertical-Randy-1.png)
+[![](/assets/images/content/Copy-of-2025-WSF-5K-Vertical-Randy-1-819x1024.png)](/assets/documents/Copy-of-2025-WSF-5K-Vertical-Randy-1.png)
 
-[Download Flyer](http://aila.ngo/wp-content/uploads/2025/05/Copy-of-2025-WSF-5K-Vertical-Randy-1.png)
+[Download Flyer](/assets/documents/Copy-of-2025-WSF-5K-Vertical-Randy-1.png)
 
 ## **Hotels**
 

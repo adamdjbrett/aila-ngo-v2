@@ -111,6 +111,6 @@ Muchas gracias a nuestros patrocinadores
 
 ## Flyers
 
-- [English (PDF)](http://aila.ngo/wp-content/uploads/2023/03/EN-01-GIWG.pdf)
+- [English (PDF)](/assets/documents/EN-01-GIWG.pdf)
 
-- [Española (PDF)](http://aila.ngo/wp-content/uploads/2023/03/ES-01-GIWG.pdf)
+- [Española (PDF)](/assets/documents/ES-01-GIWG.pdf)

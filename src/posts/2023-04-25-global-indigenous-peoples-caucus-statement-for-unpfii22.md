@@ -22,10 +22,10 @@ The PFII Chairwoman for the session get referring to "my Indigenous people." In 
 
 > "We note the dangerous and patronizing language of "my Indigenous people." We belong to no one. Many of us are still here in this room, participating at our great expense."
 
-- [English](http://aila.ngo/wp-content/uploads/2023/04/GIPC-UNPFII22-EN.pdf)
+- [English](/assets/documents/GIPC-UNPFII22-EN.pdf)
 
-- [Spanish](http://aila.ngo/wp-content/uploads/2023/04/GIPC-UNPFII22-ES.pdf)
+- [Spanish](/assets/documents/GIPC-UNPFII22-ES.pdf)
 
-- [French](http://aila.ngo/wp-content/uploads/2023/04/GIPC-UNPFII22-FR.pdf)
+- [French](/assets/documents/GIPC-UNPFII22-FR.pdf)
 
-- [Russian](http://aila.ngo/wp-content/uploads/2023/04/GIPC-UNPFII22-RU.pdf)
+- [Russian](/assets/documents/GIPC-UNPFII22-RU.pdf)

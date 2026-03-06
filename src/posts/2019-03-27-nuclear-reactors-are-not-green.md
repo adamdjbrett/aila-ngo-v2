@@ -19,7 +19,7 @@ As we work together to attempt to save the Mother Earth from climate chaos, it i
 
  
 
-[For more see the attached Nuclear Reactors are Not Green Red Paper (46 page PDF)](/wp-content/uploads/2019/03/NukeRedPaper3-25-19.pdf "Nuclear Reactors PDF")
+[For more see the attached Nuclear Reactors are Not Green Red Paper (46 page PDF)](/assets/documents/NukeRedPaper3-25-19.pdf "Nuclear Reactors PDF")
 
 * * *
 

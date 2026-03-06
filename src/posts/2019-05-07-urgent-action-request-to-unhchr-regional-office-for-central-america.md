@@ -67,6 +67,6 @@ Sincerely yours,
 
 * * *
 
-[DOWNLOAD LETTER AS A PDF](/wp-content/uploads/2019/05/2019-AILA-OHCHR.pdf)
+[DOWNLOAD LETTER AS A PDF](/assets/documents/2019-AILA-OHCHR.pdf)
 
 cover image via: [flickr.com](https://www.flickr.com/photos/8751723@N02/36725211625)

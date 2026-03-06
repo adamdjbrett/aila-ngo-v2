@@ -11,4 +11,4 @@ tags:
   - "women"
 ---
 
-[Read the Statement (PDF)](http://aila.ngo/wp-content/uploads/2024/04/GIWC-2017-Statement-final-.pdf)
+[Read the Statement (PDF)](/assets/documents/GIWC-2017-Statement-final-.pdf)

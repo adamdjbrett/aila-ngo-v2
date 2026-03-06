@@ -25,7 +25,7 @@ coverImage: "/assets/images/content/Broken-Treaties-Brandon-Lazore-Web-credit.jp
 - **Times**: 6-9 PM EST each Thursday, followed by caucuses/small group discussions.
 - **Location:** Online
 - **Sponsors**: Indigenous Values Initiative and American Indian Law Alliance
-- [View Flyer](/wp-content/uploads/2020/06/mother-earth-pandemic-doctrine-discovery-2020.pdf)
+- [View Flyer](/assets/documents/mother-earth-pandemic-doctrine-discovery-2020.pdf)
 
 ### [➡︎ Register now](https://indigenousvalues.org/mother-earths-pandemic/)
 

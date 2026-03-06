@@ -22,4 +22,4 @@ TIME: 6-9PM
 
 LOCATION: UN Church Center 777 United Nations Plaza
 
-[Flyer (PDF)](http://aila.ngo/wp-content/uploads/2025/04/Memories-For-The-Future-Flyer-1.pdf)
+[Flyer (PDF)](/assets/documents/Memories-For-The-Future-Flyer-1.pdf)

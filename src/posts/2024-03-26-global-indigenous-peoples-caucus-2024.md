@@ -71,7 +71,7 @@ We ask that in preparation for the Global Indigenous People’s Caucus you do th
 
 - [Review the 2022 statement](http://aila.ngo/global-indigenous-peoples-outcome-document/).
 
-- [Review the 2019 GIPC Statement](http://aila.ngo/wp-content/uploads/2024/04/North-American-GIPC-Statement-2019.docx.pdf).
+- [Review the 2019 GIPC Statement](/assets/documents/North-American-GIPC-Statement-2019.docx.pdf).
 
 Breakfast and lunch will be provided; no registration is necessary; as always, all Indigenous Peoples are welcome.  As more logistical information becomes available, it will be shared here and on the GIPC listserv. If you have questions, please email **aila@aila.ngo**.
 
@@ -105,9 +105,9 @@ Thank you to our sponsors
 
 - Tonatierra
 
--  [English Flyer](http://aila.ngo/wp-content/uploads/2024/03/2024-GIPC-Flyer-English.pdf)
+-  [English Flyer](/assets/documents/2024-GIPC-Flyer-English.pdf)
 
-- [English Agenda](http://aila.ngo/wp-content/uploads/2024/03/GIPC-2024-Agenda-English.pdf)
+- [English Agenda](/assets/documents/GIPC-2024-Agenda-English.pdf)
 
 * * *
 
@@ -199,9 +199,9 @@ Muchas gracias a nuestros patrocinadores:
 
 - Tonatierra
 
-- [Folleto de Española](http://aila.ngo/wp-content/uploads/2024/03/2024-GIPC-Flyer-Spanish.pdf)
+- [Folleto de Española](/assets/documents/2024-GIPC-Flyer-Spanish.pdf)
 
-- [Agenda Española](http://aila.ngo/wp-content/uploads/2024/03/GIPC-2024-Agenda_ES.pdf)
+- [Agenda Española](/assets/documents/GIPC-2024-Agenda_ES.pdf)
 
 * * *
 
@@ -289,9 +289,9 @@ Merci à nos sponsors :
 
 - Tonatierra
 
-- [Dépliant français](http://aila.ngo/wp-content/uploads/2024/03/2024-GIPC-Flyer-French.pdf)
+- [Dépliant français](/assets/documents/2024-GIPC-Flyer-French.pdf)
 
-- [Agenda Française](http://aila.ngo/wp-content/uploads/2024/03/GIPC-2024-Agenda_FR.pdf)
+- [Agenda Française](/assets/documents/GIPC-2024-Agenda_FR.pdf)
 
 * * *
 
@@ -379,6 +379,6 @@ Merci à nos sponsors :
 
 - Тонатьерра
 
-- [Русский флаер](http://aila.ngo/wp-content/uploads/2024/03/2024-GIPC-Flyer-Russian.pdf)
+- [Русский флаер](/assets/documents/2024-GIPC-Flyer-Russian.pdf)
 
-- [Российская повестка дня](http://aila.ngo/wp-content/uploads/2024/03/GIPC-2024-Agenda_RU.pdf)
+- [Российская повестка дня](/assets/documents/GIPC-2024-Agenda_RU.pdf)

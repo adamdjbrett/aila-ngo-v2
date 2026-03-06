@@ -77,10 +77,10 @@ Protections for Indigenous Women running for political office within member stat
 
 The majority of Member States do not provide services in the Indigenous languages which is a violation of UNDRIP Article 13 Sections 1&2. We refer to UNDRIP Articles 11.1, 12.1 which provide protection for Indigenous peoples to practice, preserve, and maintain our language, culture, and spiritual traditions. Our languages, knowledge, and culture are intertwined with one another. In order to preserve our Indigenous lifeways, we need to preserve our languages. Educational support is vital for language revitalization
 
-- [English (PDF)](http://aila.ngo/wp-content/uploads/2025/05/21d.-GIPC-2025-Statement_EN.pdf)
+- [English (PDF)](/assets/documents/21d.-GIPC-2025-Statement_EN.pdf)
 
-- [Español (PDF)](http://aila.ngo/wp-content/uploads/2025/05/21a.-GIPC-2025-Statement_ES.pdf)
+- [Español (PDF)](/assets/documents/21a.-GIPC-2025-Statement_ES.pdf)
 
-- [Français (PDF)](http://aila.ngo/wp-content/uploads/2025/05/21b.-GIPC-2025-Statement_FR.pdf)
+- [Français (PDF)](/assets/documents/21b.-GIPC-2025-Statement_FR.pdf)
 
-- [Русский (PDF)](http://aila.ngo/wp-content/uploads/2025/05/21с.-GIPC-2025-Statement_RU.pdf)
+- [Русский (PDF)](/assets/documents/21с.-GIPC-2025-Statement_RU.pdf)

@@ -11,7 +11,7 @@ tags:
 coverImage: "/assets/images/content/CSlMIJCUYAAe9EA.png"
 ---
 
-[Oren Lyons' Statement on the Iroquois Nationals Passport/Visa Controversy ⤓](/wp-content/uploads/2010/09/Oren-Lyons-Statement.pdf)
+[Oren Lyons' Statement on the Iroquois Nationals Passport/Visa Controversy ⤓](/assets/documents/Oren-Lyons-Statement.pdf)
 
 Media List:
 

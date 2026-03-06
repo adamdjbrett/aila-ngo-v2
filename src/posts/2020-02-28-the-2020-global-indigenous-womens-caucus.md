@@ -38,4 +38,4 @@ Special thanks to American Indian Law Alliance, Flying Eagle Woman Fund, Tonatie
 
 ~ Artwork by Citlaxochitl
 
-[Download the 2020 GIWC Poster (PDF)](/wp-content/uploads/2020/02/GIWC-2020-Poster.pdf).
+[Download the 2020 GIWC Poster (PDF)](/assets/documents/GIWC-2020-Poster.pdf).
