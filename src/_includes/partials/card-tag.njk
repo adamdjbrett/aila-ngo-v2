@@ -6,7 +6,7 @@
     <a href="{{ item.url | url }}">{{ item.data.title }}</a>
   </{{ headingLevel }}>
   <span slot="date"> {% include "partials/date.njk" %} </span>
-  <p slot="content">{{ item.data.description }}</p>
+  <p slot="content">{{ item.data.description or item.data.excerpt }}</p>
 </custom-card>
 
 {% css "local" %}

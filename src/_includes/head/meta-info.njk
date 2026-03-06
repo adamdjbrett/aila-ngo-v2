@@ -3,6 +3,8 @@
     {{- discover.description -}}
   {%- elif description -%}
     {{- description -}}
+ {%- elif page.excerpt -%}
+    {{- page.excerpt -}}
   {%- else -%}
     {{- meta.siteDescription -}}
   {%- endif -%}

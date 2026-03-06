@@ -42,6 +42,10 @@ export const blog = {
   tagSingle: 'Tag',
   tagPlural: 'Tags',
   tagMore: 'More tags:',
+  // Categories
+  categoriesSingle: 'Category',
+  categoriesPlural: 'Categories',
+  categoriesMore: 'More Categories:',
   // pagination
   paginationLabel: 'Blog',
   paginationPage: 'Page',
@@ -92,7 +96,7 @@ export const tests = {
 };
 export const viewRepo = {
   // this is for the view/edit on github link. The value in the package.json will be pulled in.
-  allow: true,
+  allow: false,
   infoText: 'View this page on GitHub'
 };
 

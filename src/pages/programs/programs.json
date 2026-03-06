@@ -1,0 +1,5 @@
+{
+  "layout": "page",
+  "tags": "programs",
+  "permalink": "/programs/{{ page.fileSlug | slugify }}/index.html"
+}

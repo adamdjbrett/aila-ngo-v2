@@ -4,8 +4,8 @@ title: Blog
 description: 'All blog posts can be found here'
 pagination:
   data: collections.allPosts
-  size: 8
-permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html'
+  size: 15
+permalink: 'blog/{% if pagination.pageNumber >=1 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}index.html'
 ---
 
 <div class="wrapper">
@@ -37,6 +37,6 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page-{{ pagination.pageNumber
   <!-- if the number of items in the collection is greater than the number of items shown on one page -->
   {% if collectionToPaginate.length > pagination.size %}
     <!-- include pagination -->
-    {% include 'partials/pagination.njk' %}
+    {% include 'partials/blog-pagination.njk' %}
   {% endif %}
 </div>
