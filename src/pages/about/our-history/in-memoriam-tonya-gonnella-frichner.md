@@ -2,6 +2,11 @@
 title: "In Memoriam: Tonya Gonnella Frichner"
 date: 2017-10-15
 coverImage: "frichner-nyt1.jpg"
+gallery:
+  - image: /assets/images/content/frichner-nyt.webp
+    alt: 'Portrait of Tonya Gonnella Frichner'
+  - image: /assets/images/content/tadodaho-sid-hill-tonya-gonnella-frichner-betty-lyons.jpg
+    alt: 'Tadodaho Sid Hill with the late Founder of the American Indian Law Alliance, Tonya Gonnella Frichner (Onondaga Nation)'
 ---
 
 ### Tonya Gonnella Frichner (Onondaga Nation) 1947-2015, Emeritus
@@ -42,7 +47,7 @@ _Selected Conferences Ms. Frichner attended:_
 
 > “The first thing indigenous peoples on the planet share is the experience of having been invaded by those who have treated us without compassion because they have considered us less than human, or not human,” Ms. \[Gonnella\] Frichner said in a statement announcing a United Nations report in 2010. “Dehumanization,” she continued, “has led to the second thing we as indigenous peoples share in common: being treated on the basis of the belief that those who have invaded our territories have a right of lordship or dominance over our existence as indigenous nations and peoples and, therefore, illegitimately claim the right to take, grant away and dispose of our lands, territories and resources bequeathed to us by our ancestors, without our permission and consent.” ~ [New York Times Obituary](https://web.archive.org/web/20220616160238/https://www.nytimes.com/2015/02/25/us/tonya-gonnella-frichner-advocate-for-indigenous-peoples-dies-at-67.html)
 
-\[gallery type="rectangular" link="file" ids="308,415"\]
+{% include "partials/gallery.njk" %}
 
  American Indian Law Alliance News articles about Tonya Gonnella Frichner
 

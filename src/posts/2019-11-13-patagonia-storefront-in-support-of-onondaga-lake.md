@@ -4,6 +4,11 @@ date: 2019-11-13
 categories: 
   - "events"
 coverImage: "/assets/images/content/patagonia-windows.png"
+gallery:
+  - image: /assets/images/content/patagonia-window-01-min-1-1920x2484.jpeg
+    alt: 'Painted Art on windows of Patagonia Store with message "American Indian Alliance to Onondaga Lake'
+  - image: /assets/images/content/patagonia-window-02-min-1-1920x2507.jpeg
+    alt: 'Painted Art on windows of Patagonia Store with message "Pressure your local officials to help restore and reclaim"'
 ---
 
-\[gallery columns="2" size="medium" type="rectangular" ids="6140,6139"\]
+{% include "partials/gallery.njk" %}
