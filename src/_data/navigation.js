@@ -59,23 +59,23 @@ export default {
       url: "https://store.aila.ngo/"
     },
     {
+      text: "Services",
+      url: "/services/",
+      submenu: [
+        {
+          text: "Cultural Renewal & Mutual Aid",
+          url: "/programs/cultural-renewal/"
+        },
+        {
+          text: "Missing and Murdered Indigenous Relatives",
+          url: "/programs/mmiw/"
+        }
+      ]
+    },
+    {
       text: "Programs",
       url: "/programs/",
       submenu: [
-        {
-          text: "Services",
-          url: "/services/",
-          submenu: [
-            {
-              text: "Cultural Renewal & Mutual Aid",
-              url: "/programs/cultural-renewal/"
-            },
-            {
-              text: "Missing and Murdered Indigenous Relatives",
-              url: "/programs/mmiw/"
-            }
-          ]
-        },
         {
           text: "Lakeback",
           url: "/programs/lakeback/"
