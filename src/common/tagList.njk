@@ -9,11 +9,11 @@ eleventyComputed:
   title: '{{ meta.blog.tagSingle }}: {{ tag.name }}'
 ---
 
-<custom-masonry layout="50-50">
+<custom-masonry layout="thirds">
   {% set itemList = tag.pageData | reverse %}
-  {% for item in itemList %}
-		{% include "partials/card-tag.njk" %}
-  {% endfor %}
+  {% asyncEach item in itemList %}
+     {% include "partials/card-blog.njk" %}
+  {% endeach %}
 </custom-masonry>
 
 <h2 class="text-step-2">{{ meta.blog.tagMore }}</h2>
