@@ -128,11 +128,8 @@ body:has([data-drawer-toggle][aria-expanded='true']) {
 }
 
 .mainnav [data-submenu-toggle] {
-  gap: var(--space-2xs);
-  display: flex;
-  inline-size: 100%;
-  align-items: center;
-  justify-content: space-between;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .mainnav [data-submenu-toggle] svg {
@@ -181,6 +178,10 @@ li:has(ul a[aria-current='page']) > [data-submenu-toggle] {
   block-size: auto;
   background: var(--nav-sublist-background);
   z-index: 2;
+}
+
+.mainnav .nav-sublist__top {
+  display: inline-block;
 }
 
 .mainnav .nav-sublist a {
