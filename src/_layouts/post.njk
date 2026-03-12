@@ -5,7 +5,7 @@ schema: BlogPosting
 
 <div class="region" style="--region-space-top: var(--space-xl-2xl)">
   <div class="wrapper flow prose">
-    <h1 class="gradient-text">{{ title }}</h1>
+    <h1>{{ title }}</h1>
 
     {% if coverImage or image %}
       <!-- image -->
@@ -15,7 +15,7 @@ schema: BlogPosting
           "alt": alt or "",
           "credit": credit,
           "loading": "eager",
-          "containerClass": "feature"
+          "containerClass": "feature center"
         }
       %}
     {% endif %}

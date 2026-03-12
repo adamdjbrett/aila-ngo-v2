@@ -1,0 +1,8 @@
+.center {
+  box-sizing: content-box;
+  margin-inline: auto;
+  max-inline-size: 65ch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

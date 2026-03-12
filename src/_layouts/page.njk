@@ -3,6 +3,19 @@ layout: base
 ---
 
 <div class="region wrapper flow prose" style="--region-space-top: var(--space-xl-2xl)">
-  <h1 class="gradient-text">{{ title }}</h1>
+  <h1>{{ title }}</h1>
+        <!-- image -->
+    {% if coverImage or image %}
+      {%
+        imageKeys {
+          "src": coverImage,
+          "alt": alt or "",
+          "credit": credit,
+          "loading": "eager",
+          "containerClass": "feature center"
+        }
+      %}
+    {% endif %}
+
   {{ content | safe }}
 </div>
