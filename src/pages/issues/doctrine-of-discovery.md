@@ -1,7 +1,7 @@
 ---
 title: "Doctrine of Discovery"
 date: 2018-03-08
-coverImage: "doctrine-of-discovery.jpg"
+coverImage: "/assets/images/content/doctrine-of-discovery.jpg"
 ---
 
 [The American Indian Law Alliance (AILA)](/) is committed to confronting and combating the [Doctrine of Discovery](https://doctrineofdiscovery.org) and the ways in which it is preserved in international law and used by settler colonial states to justify and excuse their violence.

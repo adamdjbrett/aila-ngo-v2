@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2025-08-13
-coverImage: "AILA-new-circle-logo-sm-250x250-1.png"
+coverImage: "/assets/images/content/AILA-new-circle-logo-sm-250x250-1.png"
 permalink: /about/index.html
 ---
 
