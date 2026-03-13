@@ -189,14 +189,17 @@ export default {
     },
     {
       text: "Facebook",
+      icon: "fa-brands fa-facebook",
       url: "https://www.facebook.com/americanindianlawalliance"
     },
     {
       text: "Instagram",
+      icon: "fa-brands fa-instagram",
       url: "https://www.instagram.com/americanindianlawalliance"
     },
     {
       text: "Search",
+      icon: "fa-solid fa-magnifying-glass",
       url: "/search/"
     }
   ],

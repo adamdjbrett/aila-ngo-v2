@@ -75,6 +75,12 @@ svg {
   flex: none;
 }
 
+.icon {
+  vertical-align: baseline;
+  width: var(--icon-width, 1em);
+  height: var(--icon-height, 1em);
+}
+
 b,
 strong {
   font-weight: var(--font-bold);
