@@ -41,6 +41,7 @@
       {% else %}
         <li>
           <a
+            class="no-indicator"
             href="{{ item.url }}"
             {{
               helpers.getLinkActiveState(item.url,
@@ -48,7 +49,14 @@
               |
               safe
             }}
-            >{{ item.text }}</a
+            >
+            {% if item.icon %}
+            <i class="icon {{ item.icon }}"></i>
+            <p class="visually-hidden">{{ item.text }}</p>
+              {% else %}
+              {{ item.text }}
+            {% endif %}
+            </a
           >
         </li>
       {% endif %}

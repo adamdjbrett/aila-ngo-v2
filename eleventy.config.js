@@ -54,6 +54,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addCollection('categoriesPages', categoriesPages)
 
   // ---------------------  Plugins
+  eleventyConfig.addPlugin(plugins.fontAwesomePlugin);
   eleventyConfig.addPlugin(plugins.htmlConfig);
   eleventyConfig.addPlugin(plugins.drafts);
 
