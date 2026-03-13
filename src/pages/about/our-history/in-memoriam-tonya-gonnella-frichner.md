@@ -1,7 +1,7 @@
 ---
 title: "In Memoriam: Tonya Gonnella Frichner"
 date: 2017-10-15
-coverImage: "frichner-nyt1.jpg"
+coverImage: "/assets/images/content/frichner-nyt1.jpg"
 gallery:
   - image: /assets/images/content/frichner-nyt.webp
     alt: 'Portrait of Tonya Gonnella Frichner'

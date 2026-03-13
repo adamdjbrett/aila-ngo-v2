@@ -2,7 +2,18 @@
 {% set definedDate = definedDate | default(item.date) %}
 {% set showTags = showTags | default(true) %}
 
-<custom-card clickable>
+<custom-card clickable img-square>
+  {% if item.data.coverImage  %}
+  {%
+        imageKeys {
+          "src": item.data.coverImage,
+          "alt": item.data.alt or "",
+          "credit": credit,
+          "loading": "lazy",
+          "slot": "image"
+        }
+  %}
+  {% endif %}
   <{{ headingLevel }} slot="headline" class="text-step-2">
     <a href="{{ item.url | url }}">{{ item.data.title }}</a>
   </{{ headingLevel }}>

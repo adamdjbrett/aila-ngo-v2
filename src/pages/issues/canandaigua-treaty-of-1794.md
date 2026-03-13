@@ -1,7 +1,7 @@
 ---
 title: "Canandaigua Treaty of 1794"
 date: 2021-01-05
-coverImage: "The-1794-Canandaigua-Treaty.png"
+coverImage: "/assets/images/content/The-1794-Canandaigua-Treaty.png"
 ---
 
 Below are some photos from the 1794 Covenant Chain polishing ceremony with [Hanadagá•yas](https://www.onondaganation.org/history/us-presidents-hanadagayas/) Barack Obama in 2016

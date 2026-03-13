@@ -9,11 +9,11 @@ eleventyComputed:
   title: '{{ meta.blog.categoriesSingle }}: {{ category.name }}'
 ---
 
-<custom-masonry layout="50-50">
+<custom-masonry layout="thirds">
   {% set itemList = category.pageData | reverse %}
-  {% for item in itemList %}
-        {% include "partials/card-tag.njk" %}
-  {% endfor %}
+  {% asyncEach item in itemList %}
+     {% include "partials/card-blog.njk" %}
+  {% endeach %}
 </custom-masonry>
 
   <!-- set target pagination settings in meta.js -->
