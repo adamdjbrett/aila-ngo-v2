@@ -39,8 +39,9 @@ schema: BlogPosting
     </p>
 
     {{ content | safe }}
-<div>
+
 <hr />
+<div class="cluster">
     {% if tags.length > 1 %}
           <!-- tags -->
           {% for tag in tags %}{% if tag != "posts" %}
