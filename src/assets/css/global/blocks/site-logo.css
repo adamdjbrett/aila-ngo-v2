@@ -7,5 +7,6 @@
 
 .logo img {
   padding-inline-end: var(--space-s);
-  max-width: var(--size-step-4);
+  min-width: var(--size-step-3);
+  max-width: var(--size-step-6);
 }
