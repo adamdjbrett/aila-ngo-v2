@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Blog
+title: News, inspirations, and thoughts.
 description: 'All blog posts can be found here'
 pagination:
   data: collections.allPosts
@@ -9,26 +9,21 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page/{{ pagination.pageNumber
 ---
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: var(--color-secondary)">
-    <div class="section__inner flow region" style="--region-space-top: var(--space-xl-2xl)">
-      <h1 class="text-center" style="color: var(--color-light);">{{ title }}</h1>
+  <header class="full | section">
+    <div class="section__inner flow region" style="--region-space-top: var(--space-xl-2xl);">
+      <h1 class="text-center" style="color: var(--color-text);">{{ title }}</h1>
     </div>
-
-    {% svg "divider/edgy", null, "divider" %}
   </header>
 
-  <div class="region flow prose" style="--region-space-top: var(--space-xl-2xl)">
-    <p>This blog has a pagination of <strong>{{ pagination.size }}</strong> posts per page.<br>
-      The pagination is only shown if there are more posts ({{ collections.posts.length }}) than items per
-      page ({{ pagination.size }}).
-    </p>
-  </div>
 
-  <custom-masonry layout="50-50">
-		{% asyncEach item in pagination.items %}
-			{% include "partials/card-blog.njk" %}
-		{% endeach %}
-	</custom-masonry>
+<section class="region | flow">
+  <hr>
+    <custom-masonry layout="50-50">
+  		{% asyncEach item in pagination.items %}
+  			{% include "partials/card-blog.njk" %}
+  		{% endeach %}
+  	</custom-masonry>
+</section>
 
   <!-- set collection to paginate -->
   {% set collectionToPaginate = collections.posts %}
