@@ -1,7 +1,7 @@
 ---
 layout: base
-title: News, inspirations, and thoughts.
-description: 'All blog posts can be found here'
+title: Blog
+description: 'News, inspirations, and thoughts'
 pagination:
   data: collections.allPosts
   size: 15
@@ -10,15 +10,16 @@ permalink: 'blog/{% if pagination.pageNumber >=1 %}page/{{ pagination.pageNumber
 
 <div class="wrapper">
   <header class="full | section">
-    <div class="section__inner flow region" style="--region-space-top: var(--space-xl-2xl);">
-      <h1 class="text-center" style="color: var(--color-text);">{{ title }}</h1>
+    <div class="section__inner region | text-center color-text" style="--region-space-top: var(--space-xl-2xl);">
+      <h1 style="font-size: var(--step-1); font-family: var(--font-base);">{{ title }}</h1>
+      <p style="font-size: var(--size-step-6); font-family: var(--font-display);">{{ description }}</p>
     </div>
   </header>
 
 
 <section class="region | flow">
   <hr>
-    <custom-masonry layout="50-50">
+    <custom-masonry layout="thirds">
   		{% asyncEach item in pagination.items %}
   			{% include "partials/card-blog.njk" %}
   		{% endeach %}
