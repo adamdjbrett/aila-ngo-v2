@@ -1,0 +1,46 @@
+---
+layout: page
+---
+
+{{ content | safe }}
+
+{% if resourceLinks.ailaResources %}
+  <section class="flow">
+  <h2>AILA Links and Resources</h2>
+  <custom-masonry>
+      {% for item in resourceLinks.ailaResources %}
+            <custom-card clickable>
+            <h2 slot="headline" class="text-step-2">
+              <a href="{{ item.url | url }}">{{ item.text }}</a>
+            </h2>
+            {% if item.description %}
+              <p slot="content">{{ item.description }}</p>
+            {% endif %}
+          </custom-card>
+      {% endfor %}
+  </custom-masonry>
+</section>
+{% endif %}
+
+{% if resourceLinks.externalResources %}
+  <section class="flow">
+  <h2>External Links and Resources</h2>
+  <custom-masonry>
+      {% for item in resourceLinks.externalResources %}
+            <custom-card clickable>
+            <h2 slot="headline" class="text-step-2">
+              <a href="{{ item.url | url }}">{{ item.text }}</a>
+            </h2>
+            {% if item.description %}
+              <p slot="content">{{ item.description }}</p>
+            {% endif %}
+          </custom-card>
+      {% endfor %}
+  </custom-masonry>
+</section>
+{% endif %}
+
+
+{% css "local" %}
+  {% include "css/custom-card.css" %}
+{% endcss %}
