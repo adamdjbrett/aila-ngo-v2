@@ -1,5 +1,14 @@
 {
-  "ailaResources": [],
+  "ailaResources": [
+    {
+      "text": "AILA Issues",
+      "url": "/issues/"
+    },
+     {
+      "text": "AILA Documents",
+      "url": "/documents/"
+    }
+  ],
   "externalResources": [
     {
       "text": "UN Declaration on the Rights of Indigenous Peoples (UNDRIP)",
