@@ -96,7 +96,7 @@ body:has([data-drawer-toggle][aria-expanded='true']) {
 
 .mainnav svg {
   block-size: 0.9em;
-  color: var(--color-text);
+  color: inherit;
   stroke-width: 3;
 }
 
@@ -218,7 +218,7 @@ li:has(ul a[aria-current='page']) > .nav-sublist__top {
   .mainnav [data-state='active'],
   li:has(ul a[aria-current='page']) > .nav-sublist__top {
     --nav-item-background: transparent;
-    --nav-item-decoration-color: var(--color-secondary);
+    --nav-item-decoration-color: var(--color-primary);
   }
 
   .mainnav [data-submenu-toggle] {

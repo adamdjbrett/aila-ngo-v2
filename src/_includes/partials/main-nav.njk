@@ -39,11 +39,28 @@
             {% endfor %}
           </ul>
         </li>
-      {% else %}
+      {% elseif item.social %}
+      <li>
+      <ul class="cluster" style="--cluster-horizontal-alignment: center;">
+        {% for social in item.social %}
+          <a class="no-indicator" href="{{ social.url }}">
+            {% if social.icon %}
+            <i class="icon {{ social.icon }}"></i>
+            <p class="visually-hidden">{{ social.text }}</p>
+              {% else %}
+              {{ item.text }}
+            {% endif %}
+            </a>
+        {% endfor %}
+      </ul>
+      </li>
+      {%else %}
         <li>
           <a
-            class="no-indicator"
+            class="no-indicator {% if item.style === 'button' %} button {% endif %}"
             href="{{ item.url }}"
+            {% if item.style === 'button' %} {% if item.variant %}data-button-variant={{item.variant}}{% endif %}{% endif %}
+            style="{% if item.style === 'button' %} background: var(--button-bg); color: var(--button-color);{% endif%}"
             {{
               helpers.getLinkActiveState(item.url,
               page.url)
