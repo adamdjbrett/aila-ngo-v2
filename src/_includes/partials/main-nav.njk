@@ -57,10 +57,10 @@
       {%else %}
         <li>
           <a
-            class="no-indicator {% if item.style === 'button' %} button {% endif %}"
+            class="no-indicator {% if item.button %} button {% endif %}"
             href="{{ item.url }}"
-            {% if item.style === 'button' %} {% if item.variant %}data-button-variant={{item.variant}}{% endif %}{% endif %}
-            style="{% if item.style === 'button' %} background: var(--button-bg); color: var(--button-color);{% endif%}"
+            {% if item.button %} {% if item.button.variant %}data-button-variant={{item.button.variant}}{% endif %}{% endif %}
+            style="{% if item.button' %} background: var(--button-bg); color: var(--button-color);{% endif %}"
             {{
               helpers.getLinkActiveState(item.url,
               page.url)

@@ -186,7 +186,7 @@ export default {
     {
       text: "Give",
       url: "/give/",
-      style: "button"
+      button: true
     },
     {
       social: [
@@ -206,7 +206,9 @@ export default {
       text: "Search",
       icon: "fa-solid fa-magnifying-glass",
       url: "/search/",
-      style: "button"
+      button: {
+        variant: "secondary"
+    }
     }
   ],
   bottom: [
