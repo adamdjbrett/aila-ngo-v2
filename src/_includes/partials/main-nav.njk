@@ -10,6 +10,7 @@
           {% if item.url %}
           <a class="nav-sublist__top" 
             href={{item.url}}
+            {{ helpers.getLinkActiveState(item.url, page.url) | safe }}
           >{{ item.text }}
           </a>
           {% else %}

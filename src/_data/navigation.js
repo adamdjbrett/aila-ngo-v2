@@ -51,14 +51,6 @@ export default {
       ]
     },
     {
-      text: "News",
-      url: "/blog/"
-    },
-    {
-      text: "Store",
-      url: "https://store.aila.ngo/"
-    },
-    {
       text: "Services",
       url: "/services/",
       submenu: [
@@ -182,6 +174,14 @@ export default {
           url: "http://aila.ngo/what-else-can-you-do/"
         }
       ]
+    },
+    {
+      text: "News",
+      url: "/blog/"
+    },
+    {
+      text: "Store",
+      url: "https://store.aila.ngo/"
     },
     {
       text: "Give",
