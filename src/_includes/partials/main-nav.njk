@@ -60,7 +60,7 @@
             class="no-indicator {% if item.button %} button {% endif %}"
             href="{{ item.url }}"
             {% if item.button %} {% if item.button.variant %}data-button-variant={{item.button.variant}}{% endif %}{% endif %}
-            style="{% if item.button' %} background: var(--button-bg); color: var(--button-color);{% endif %}"
+            style="{% if item.button %} background: var(--button-bg); color: var(--button-color);{% endif %}"
             {{
               helpers.getLinkActiveState(item.url,
               page.url)
