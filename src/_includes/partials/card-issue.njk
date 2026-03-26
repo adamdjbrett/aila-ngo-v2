@@ -1,0 +1,14 @@
+{% set headingLevel = headingLevel | default("h3") %}
+{% set definedDate = definedDate | default(item.date) %}
+{% set showTags = showTags | default(true) %}
+
+<custom-card clickable>
+  <{{ headingLevel }} slot="headline" class="text-step-2">
+    <a href="{{ item.url or item.link | url }}">{{ item.title }}</a>
+  </{{ headingLevel }}>
+  <p slot="content">{{ item.description | safe }}</p>
+</custom-card>
+
+{% css "local" %}
+  {% include "css/custom-card.css" %}
+{% endcss %}
