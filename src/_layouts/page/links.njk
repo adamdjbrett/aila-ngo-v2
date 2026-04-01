@@ -5,8 +5,8 @@ layout: page
 {{ content | safe }}
 
 {% if resourceLinks.ailaResources.length %}
-  <section class="flow">
-  <h2 class="horizontal-border">AILA Links and Resources</h2>
+  <section class="stack flow">
+  <h2 class="hr-border">AILA Links and Resources</h2>
   <custom-masonry>
       {% for item in resourceLinks.ailaResources %}
             <custom-card>
@@ -23,8 +23,8 @@ layout: page
 {% endif %}
 
 {% if resourceLinks.externalResources.length %}
-  <section class="flow">
-  <h2 class="horizontal-border">External Links and Resources</h2>
+  <section class="stack flow">
+  <h2 class="hr-border">External Links and Resources</h2>
   <custom-masonry>
       {% for item in resourceLinks.externalResources %}
             <custom-card clickable>
