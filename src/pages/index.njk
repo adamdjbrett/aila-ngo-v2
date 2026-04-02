@@ -69,8 +69,8 @@ serviceSections:
 
 
 <div class="wrapper">
-  <header class="full | section" style="--spot-color: --color-bg">
-    <div class="section__inner | wrapper flow region | text-center" style="--region-space: var(--space-xl);">
+  <header class="section">
+    <div class="section__inner | wrapper flow region | text-center" style="--region-space: var(--space-2xl); --spot-color: none;">
         <h1 style="font-size: var(--size-step-5);">An NGO in consultative status with the United Nations Economic & Social Council (ECOSOC)</h1>
         <p>The American Indian Law Alliance (AILA) was founded in 1989; it is an Indigenous, non-profit, non-partisan organization that works with Indigenous nations, communities, and organizations in our struggle for sovereignty, human rights, and social justice for our peoples.</p>
       <div class="cluster" style="--cluster-horizontal-alignment: center;">
@@ -81,16 +81,22 @@ serviceSections:
     </div>
   </header>
 
-  <section class="region full | bg-purple-subdued text-gray-100" style="--flow-space: var(--space-m);">
+  <section class="region full" style="--flow-space: var(--space-m); background: var(--color-purple-subdued); color: var(--color-gray-100);">
     <div class="wrapper flow">
-      <h2>A passion for sovereignty & healing all our relations</h2>
-      <p>Advocating for Indigenous sovergnty and living in right and proper relationship with all living beings and our Mother the Earth.</p>
+      <article class="prose">
+        <h2>A passion for sovereignty & healing all our relations</h2>
+        <p>Advocating for Indigenous sovergnty and living in right and proper relationship with all living beings and our Mother the Earth.</p>
+      </article>
         <ul class="grid" data-layout="thirds" role="list">
       	{% asyncEach item in advocating %}
         		<li>{% include "partials/card.njk" %}</li>
         	{% endeach %}
         </ul>
     </div>
+  </section>
+
+  <section>
+    <figure class="frame"><img src="/assets/images/content/2.png" alt="Banner that says: Our Right to Sovereignty is non-negotiable"></figure>
   </section>
 
   <section class="region | flow" style="--flow-space: var(--space-m);">
@@ -101,7 +107,9 @@ serviceSections:
     </article>
   <div class="region stack">
     {% for section in serviceSections %}
-      <div class="repel | sticky-container" style="--repel-vertical-alignment: start;">
+      <div class="region | repel | sticky-container" style="--repel-vertical-alignment: start;" {% if (loop.index % 2 === 0) %}
+        data-row-reverse
+      {% endif %}>
         <article class="sticky-content hr-border">
           <h3>
             {{ section.title }}
@@ -130,8 +138,8 @@ serviceSections:
    </div>
    </section>
 
-   <section class="region full">
-    <div class="center | flow">
+   <article class="region">
+    <div class="center | flow | text-center">
       <h2>Stay engaged with our work</h2>
       <p>Visit our contact page to connect with our team directly.</p>
       <div class="cluster">
@@ -139,5 +147,5 @@ serviceSections:
         <a class="button" data-button-variant='primary' href="/email/">Newsletter</a>
       </div>
     </div>
-   </section>
+   </article>
 </div>
