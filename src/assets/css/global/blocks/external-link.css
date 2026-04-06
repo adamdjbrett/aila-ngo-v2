@@ -12,7 +12,7 @@ a[href^='http']:not([href*='localhost:8080']):not([href*='aila.ngo']):not(
   display: inline-block;
   inline-size: 1em;
   block-size: 1em;
-  background-image: url('/assets/images/template/external.svg');
+  background-image: var(--external-link-bg), url('/assets/images/template/external.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60% auto;
