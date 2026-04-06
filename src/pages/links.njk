@@ -29,14 +29,14 @@ date: 2010-09-27
   
   <custom-masonry>
       {% for item in resourceLinks.externalResources %}
-            <custom-card clickable class="{% if item.sidebar %}masonry-breakout{% endif %}">
+        <custom-card clickable class="{% if item.sidebar %}masonry-breakout{% endif %}">
             <h3 slot="headline" class="text-step-2">
               <a href="{{ item.url | url }}">{{ item.text }}</a>
             </h3>
             {% if item.description %}
               <p slot="content">{{ item.description }}</p>
             {% endif %}
-          </custom-card>
+        </custom-card>
       {% endfor %}
   </custom-masonry>
 </section>
