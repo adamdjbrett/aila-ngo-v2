@@ -41,8 +41,8 @@ to change how empty grid tracks are handled */
 /* Masonry breakout used on the /links/ page */
 
 .masonry-breakout {
-  background: var(--masonry-breakout-bg, var(--color-primary));
-  color: var(--masonry-breakout-color, var(--color-light));
+  --card-bg: var(--color-primary);
+  --card-text: var(--color-light);
 }
 
 @media screen(md) {
