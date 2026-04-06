@@ -10,7 +10,9 @@ a[href^='http']:not([href*='localhost:8080']):not([href*='aila.ngo']):not(.no-in
   display: inline-block;
   inline-size: 1em;
   block-size: 1em;
-  background-image: var(--external-link-bg, url('/assets/images/template/external.svg')), url('/assets/images/template/external.svg');
+  background-image:
+    var(--external-link-bg, url('/assets/images/template/external.svg')),
+    url('/assets/images/template/external.svg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60% auto;
@@ -22,5 +24,6 @@ a[href^='http']:not([href*='localhost:8080']):not([href*='aila.ngo']):not(.no-in
 }
 
 .external-favicon::after {
+  /* Fallback SVG is still seen with transparent favicons - this background color adds an extra layer of contrast */
   background-color: rgba(255, 255, 255, 0.5);
 }
