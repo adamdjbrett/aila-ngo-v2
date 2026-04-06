@@ -42,7 +42,7 @@ to change how empty grid tracks are handled */
 
 .masonry-breakout {
   --card-bg: var(--color-primary);
-  --card-text: var(--color-light);
+  --card-color: var(--color-light);
 }
 
 @media screen(md) {
