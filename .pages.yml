@@ -50,10 +50,9 @@ content:
         options:
           categories: [image]
       - name: tags
-        label: Tags
-        type: reference
-        options:
-          collection: tagList 
+        label: Tags 
+        type: string
+        list: true 
       - name: body
         type: rich-text
         options:
