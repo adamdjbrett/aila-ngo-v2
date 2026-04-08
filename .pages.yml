@@ -30,13 +30,21 @@ content:
     fields:
       - name: title
         type: string
+        label: Title
       - name: description
         type: text
+        label: Description
       - name: date
         type: date
+        label: Last Updated
         default: ""
         options:
         format: yyyy-MM-dd
+      - name: coverImage
+        label: Cover Image
+        type: image
+        options:
+        categories: [image]  
       - name: body
         type: rich-text
         options:
