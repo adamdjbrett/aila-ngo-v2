@@ -28,6 +28,10 @@ content:
     type: collection
     path: src/posts
     fields:
+      - name: draft
+        type: boolean
+        default: false
+        label: Draft
       - name: title
         type: string
         label: Title
