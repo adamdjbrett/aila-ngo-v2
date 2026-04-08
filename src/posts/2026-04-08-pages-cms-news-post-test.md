@@ -2,7 +2,7 @@
 title: Pages CMS news post test
 description: a new post from pages CMS!
 date: 2026-04-09
-coverImage: /assets/images/content/Hiawatha-Belt.png
+coverImage: /assets/images/content/lc-masthead.jpg
 ---
 ![](/assets/images/content/1024px-Braided_Sweet_Grass.jpg)
 
