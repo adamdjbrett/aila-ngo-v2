@@ -43,18 +43,17 @@ content:
         label: Last Updated
         default: ""
         options:
-        format: yyyy-MM-dd
+          format: yyyy-MM-dd
       - name: coverImage
         label: Cover Image
         type: image
         options:
-        categories: [image]
+          categories: [image]
       - name: tags
         label: Tags
-        type: select
+        type: reference
         options:
-          creatable: true
-          multiple: true  
+          collection: tagLists 
       - name: body
         type: rich-text
         options:
