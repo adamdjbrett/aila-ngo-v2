@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Pages CMS news post test
 description: a new post from pages CMS!
 date: 2026-04-09
