@@ -51,11 +51,8 @@ content:
           categories: [image]
       - name: categories
         label: Categories
-        type: select
-        options:
-          creatable: true
-          multiple: true
-          values: [ pentesting,linux,privilege escalation,security,cheatsheet ]
+        type: string
+        list: true
       - name: tags
         label: Tags
         type: string
