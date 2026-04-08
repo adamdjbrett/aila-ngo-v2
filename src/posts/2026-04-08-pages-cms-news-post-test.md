@@ -4,6 +4,8 @@ title: Pages CMS news post test
 description: a new post from pages CMS!
 date: 2026-04-09
 coverImage: /assets/images/content/lc-masthead.jpg
+tags:
+  - test
 ---
 ![](/assets/images/content/1024px-Braided_Sweet_Grass.jpg)
 
