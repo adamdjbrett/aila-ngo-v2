@@ -49,6 +49,10 @@ content:
         type: image
         options:
           categories: [image]
+      - name: categories
+        label: Categories
+        type: string
+        list: true
       - name: tags
         label: Tags
         type: string
