@@ -53,7 +53,7 @@ content:
         label: Tags
         type: reference
         options:
-          collection: tagLists 
+          collection: tagList 
       - name: body
         type: rich-text
         options:
