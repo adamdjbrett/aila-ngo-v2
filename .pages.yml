@@ -37,11 +37,10 @@ content:
         default: ""
         options:
         format: yyyy-MM-dd
-      - name: content
+      - name: body
         type: rich-text
         options:
-        rename: safe
-        switcher: true
+          format: html
 actions:
   - name: deploy-site
     label: Deploy site
