@@ -50,9 +50,11 @@ content:
         options:
           categories: [image]
       - name: tags
-        label: Tags 
-        type: string
-        list: true 
+        label: Tags
+        type: select
+        options:
+          creatable: true
+          multiple: true
       - name: body
         type: rich-text
         options:
