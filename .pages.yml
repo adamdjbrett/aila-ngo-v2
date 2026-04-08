@@ -1,0 +1,48 @@
+media:
+  - name: images
+    label: Images
+    input: src/assets/images/content
+    output: /assets/images/content
+    rename: safe
+    categories: [image]
+    commit:
+      templates:
+        create: "chore(Images): add {filename}"
+        update: "chore(Images): update {filename}"
+        delete: "chore(Images): remove {filename}"
+        rename: "chore(Images): rename {oldFilename} -> {newFilename}"
+  - name: docs
+    label: Documents
+    input: src/assets/documents
+    output: /assets/documents
+    categories: [document]
+    commit:
+      templates:
+        create: "chore(Documents): add {filename}"
+        update: "chore(Documents): update {filename}"
+        delete: "chore(Documents): remove {filename}"
+        rename: "chore(Documents): rename {oldFilename} -> {newFilename}"
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/posts
+    fields:
+      - name: title
+        type: string
+      - name: description
+        type: text
+      - name: date
+        type: date
+        default: ""
+        options:
+        format: yyyy-MM-dd
+      - name: content
+        type: rich-text
+        options:
+        rename: safe
+        switcher: true
+actions:
+  - name: deploy-site
+    label: Deploy site
+    workflow: pages-cms-action.yml
