@@ -4,8 +4,6 @@ title: Pages CMS news post test
 description: a new post from pages CMS!
 date: 2026-04-09
 coverImage: /assets/images/content/lc-masthead.jpg
-categories:
-  - linux
 tags:
   - test
 ---
