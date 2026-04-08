@@ -54,7 +54,7 @@ content:
         type: select
         options:
           creatable: true
-    multiple: true  
+          multiple: true  
       - name: body
         type: rich-text
         options:
