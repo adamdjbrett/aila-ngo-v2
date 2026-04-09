@@ -25,12 +25,12 @@ media:
 content:
   - name: categories
     label: Categories
-    type: file
+    type: collection
+    filename: "{fields.title}.json"
     format: json
-    list: true
-    path: "src/_data/categories.json"
+    path: "src/_config/pagescms/categories"
     fields:
-      - name: name
+      - title: name
         label: Category Name
         type: string 
   - name: posts
