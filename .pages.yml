@@ -27,10 +27,7 @@ content:
     label: Categories
     type: file
     format: json
-    list:
-      collapsible:
-        collapsed: false
-        summary: "{field.name}"
+    list: true
     path: "src/_data/categories.json"
     fields:
       - name: name
