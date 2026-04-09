@@ -25,16 +25,8 @@ media:
 content:
   - name: "categories"
     label: "Categories"
-    files:
-      - name: "categories"
-        label: "Categories List"
-        file: "src/_data/categories.json"
-        fields:
-          - name: "categories"
-            label: "Categories"
-            list: true
-            type: string
-content:
+    type: file
+    path: "src/_data/categories.json"
   - name: posts
     label: Posts
     type: collection
