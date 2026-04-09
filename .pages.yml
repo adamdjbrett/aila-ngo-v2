@@ -27,12 +27,12 @@ content:
     label: "Categories"
     type: file
     format: json
+    list: true
     path: "src/_data/categories.json"
     fields:
       - name: category
         label: Categories
         type: string
-        list: true
   - name: posts
     label: Posts
     type: collection
