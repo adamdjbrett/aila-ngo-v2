@@ -26,6 +26,7 @@ content:
   - name: "categories"
     label: "Categories"
     type: file
+    format: json
     path: "src/_data/categories.json"
     fields:
       - name: category
