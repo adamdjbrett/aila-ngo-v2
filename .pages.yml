@@ -61,8 +61,10 @@ content:
           categories: [image]
       - name: categories
         label: Categories
-        type: string
-        list: true
+        type: reference
+        options:
+          collection: categories
+          multiple: true
       - name: tags
         label: Tags
         type: string
