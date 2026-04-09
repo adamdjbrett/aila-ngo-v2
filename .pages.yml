@@ -27,7 +27,7 @@ content:
     label: Categories
     type: file
     format: json
-    list:
+    list: true
       collapsible:
         collapsed: true
         summary: "{title} ({index})"
