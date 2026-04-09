@@ -22,7 +22,7 @@ media:
         update: "chore(Documents): update {filename}"
         delete: "chore(Documents): remove {filename}"
         rename: "chore(Documents): rename {oldFilename} -> {newFilename}"
-collections:
+content:
   - name: "categories"
     label: "Categories"
     files:
