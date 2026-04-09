@@ -29,7 +29,7 @@ content:
     format: json
     list:
       collapsible:
-        collapsed: true
+        collapsed: false
         summary: "{field.name}"
     path: "src/_data/categories.json"
     fields:
