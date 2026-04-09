@@ -32,7 +32,7 @@ content:
     fields:
       - name: name
         label: Category Name
-        type: text 
+        type: string 
   - name: posts
     label: Posts
     type: collection
