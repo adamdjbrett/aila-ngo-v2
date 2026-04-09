@@ -29,7 +29,7 @@ content:
     path: "src/_data/categories.json"
     fields:
       - name: category
-        label: Tags
+        label: Categories
         type: string
         list: true
   - name: posts
