@@ -27,6 +27,11 @@ content:
     label: "Categories"
     type: file
     path: "src/_data/categories.json"
+    fields:
+      - name: category
+        label: Tags
+        type: string
+        list: true
   - name: posts
     label: Posts
     type: collection
