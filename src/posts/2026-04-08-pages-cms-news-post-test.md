@@ -6,6 +6,7 @@ date: 2026-04-09
 coverImage: /assets/images/content/lc-masthead.jpg
 categories:
   - craft-fair
+  - events
 tags:
   - test
 ---
