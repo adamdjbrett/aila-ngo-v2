@@ -29,10 +29,6 @@ content:
     format: json
     list: true
     path: "src/_data/categories.json"
-    fields:
-      - name: category
-        label: Categories
-        type: string
   - name: posts
     label: Posts
     type: collection
