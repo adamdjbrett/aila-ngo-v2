@@ -73,6 +73,36 @@ content:
         type: rich-text
         options:
           format: markdown
+  - name: pages
+    label: Pages
+    type: collection
+    path: src/pages
+    fields:
+      - name: draft
+        type: boolean
+        default: false
+        label: Draft
+      - name: title
+        type: string
+        label: Title
+      - name: description
+        type: text
+        label: Description
+      - name: date
+        type: date
+        label: Last Updated
+        default: ""
+        options:
+          format: yyyy-MM-dd
+      - name: coverImage
+        label: Cover Image
+        type: image
+        options:
+          categories: [image]
+      - name: body
+        type: rich-text
+        options:
+          format: markdown
 actions:
   - name: deploy-site
     label: Deploy site
