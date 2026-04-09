@@ -28,6 +28,7 @@ content:
     type: file
     format: json
     list: true
+    summary: "fields.name"
     path: "src/_data/categories.json"
     fields:
       - name: name
