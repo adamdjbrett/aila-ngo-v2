@@ -1,10 +1,10 @@
 [
-  "craft-fair",
-  "events",
-  "festival",
-  "gipc",
-  "giwc",
-  "in-memorium",
-  "news",
-  "united-nations"
+  {"name": "craft-fair"},
+  {"name": "events"},
+  {"name": "festival"},
+  {"name": "gipc"},
+  {"name": "giwc"},
+  {"name": "in-memorium"},
+  {"name": "news"},
+  {"name": "united-nations"}
 ]
