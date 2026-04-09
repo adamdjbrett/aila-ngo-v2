@@ -23,13 +23,16 @@ media:
         delete: "chore(Documents): remove {filename}"
         rename: "chore(Documents): rename {oldFilename} -> {newFilename}"
 content:
-  - name: "categories"
-    label: "Categories"
+  - name: categories
+    label: Categories
     type: file
     format: json
     list: true
     path: "src/_data/categories.json"
     fields:
+      - name: name
+        label: Category Name
+        type: text 
   - name: posts
     label: Posts
     type: collection
