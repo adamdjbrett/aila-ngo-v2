@@ -22,6 +22,18 @@ media:
         update: "chore(Documents): update {filename}"
         delete: "chore(Documents): remove {filename}"
         rename: "chore(Documents): rename {oldFilename} -> {newFilename}"
+collections:
+  - name: "categories"
+    label: "Categories"
+    files:
+      - name: "categories"
+        label: "Categories List"
+        file: "src/_data/categories.json"
+        fields:
+          - name: "categories"
+            label: "Categories"
+            list: true
+            type: string
 content:
   - name: posts
     label: Posts
