@@ -30,7 +30,7 @@ content:
     format: json
     path: "src/_config/pagescms/categories"
     fields:
-      - title: name
+      - name: title
         label: Category Name
         type: string 
   - name: posts
