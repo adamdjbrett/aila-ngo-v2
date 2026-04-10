@@ -40,6 +40,8 @@ content:
     label: Posts
     type: collection
     path: src/posts
+    view:
+      fields: [title, draft, date, categories, tags]
     fields:
       - name: draft
         type: boolean
