@@ -82,6 +82,7 @@ content:
     label: Pages
     type: collection
     path: src/pages
+    filename: "{title}.md"
     fields:
       - name: draft
         type: boolean
