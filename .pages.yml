@@ -111,8 +111,6 @@ content:
         type: rich-text
         options:
           format: markdown
-    - name: organization
-      
 actions:
   - name: deploy-site
     label: Deploy site
