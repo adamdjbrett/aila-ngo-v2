@@ -114,7 +114,7 @@ content:
   - name: organization
     label: Organization Information
     type: file
-    path: './src/_data/organization.yaml'
+    path: 'src/_data/organization.yaml'
     fields:
       - name: email
         label: Organization Email
