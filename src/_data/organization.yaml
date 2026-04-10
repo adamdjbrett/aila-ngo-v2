@@ -6,3 +6,5 @@ address: |-
 platforms:
   - name: instagram
     url: https://www.instagram.com/americanindianlawalliance
+  - name: facebook
+    url: https://www.facebook.com/americanindianlawalliance
