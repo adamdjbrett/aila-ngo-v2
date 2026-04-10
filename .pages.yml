@@ -129,10 +129,10 @@ content:
         fields:
           - name: name
             label: Platform Name
-            type: text
+            type: string
           - name: url
             label: Platform Url
-            type: text
+            type: string
 actions:
   - name: deploy-site
     label: Deploy site
