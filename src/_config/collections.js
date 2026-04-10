@@ -49,8 +49,8 @@ export const categoriesList = collection => {
       title: category[1].title,
       slug: category[1].slug
     }
-    });
-  
+  });
+
   return categories;
 };
 
