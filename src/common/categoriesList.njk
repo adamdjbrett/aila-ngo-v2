@@ -33,16 +33,16 @@ eleventyComputed:
   {% for category in collections.categoriesList %}
     <li>
       <a
-        href="/category/{{ category | slugify }}/"
+        href="/category/{{ category.slug | slugify }}/"
         class="button"
         {{
-          helpers.getLinkActiveState('/category/' + category | slugify + '/',
+          helpers.getLinkActiveState('/category/' + category.slug | slugify + '/',
           page.url)
           |
           safe
         }}
       >
-        {{ category }}
+        {{ category.title }}
       </a>
     </li>
   {% endfor %}

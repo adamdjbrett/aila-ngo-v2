@@ -67,7 +67,7 @@ content:
         type: reference
         options:
           collection: categories
-          value: "{title}"
+          value: "{slug}"
           label: "{title}"
           multiple: true
       - name: tags

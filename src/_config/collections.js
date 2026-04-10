@@ -62,7 +62,7 @@ export const categoriesPages = collection => {
   let categoryMap = [];
   let categoriesArray = categoriesList(collection);
   for (let category of categoriesArray) {
-    let categoryItems = categoriesPages.filter((item) => item.data.categories.includes(category));
+    let categoryItems = categoriesPages.filter((item) => item.data.categories.includes(category.slug));
     let pagedItems = chunk(categoryItems, paginationSize);
     for (let pageNumber = 0, max = pagedItems.length; pageNumber < max; pageNumber++) {
       categoryMap.push({
