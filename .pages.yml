@@ -28,10 +28,13 @@ content:
     type: collection
     filename: "{fields.title}.json"
     format: json
-    path: "src/_config/pagescms/categories"
+    path: "src/_data/pagesCMS/categories"
     fields:
       - name: title
         label: Category Name
+        type: string
+      - name: slug
+        label: Category slug (e.g - aila.ngo/category/slug/)
         type: string 
   - name: posts
     label: Posts
