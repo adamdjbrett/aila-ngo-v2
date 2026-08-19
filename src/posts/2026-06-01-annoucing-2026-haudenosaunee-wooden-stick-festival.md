@@ -66,7 +66,7 @@ Craft vendor registration opens (as of June 1, 2026).
 ### **Craft Vendors**
 *we are still looking for craft vendors*
 
-1. [Submit the form](https://forms.gle/HS6J6ton1pDV2Dph9)
+1. [Submit the form](https://forms.gle/dWtU2FNckQaNdqAG6)
 
 3. [Pay online](https://aila.li/vendor)
 
@@ -78,13 +78,17 @@ Craft vendor registration opens (as of June 1, 2026).
 
 ## Smoke Dance Details
 
-[![Smoke Dancer Dancing superimposed over a photo of Onondaga Lake](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/documents/2025-Smoke-Dance-update.jpg)
+[![Smoke Dancer Dancing superimposed over a photo of Onondaga Lake](/assets/images/content/2025-Smoke-Dance-update-819x1024.jpg)](/assets/images/content/2025-Smoke-Dance-update.jpg)
 
 ### Team and Vendor Fees
 
 - [Vendor Payment](https://aila.li/vendor)
 
 - [Team Payment](https://aila.li/team)
+
+### Community Cleanup event
+Join us for a community clean up of shores of Onondaga lake during the Haudenosaunee Wooden Stick Lacrosse Festival! Open to adults and kids of all ages. Gloves and bags to be provided.
+![Clean up flyer](/assets/images/content/cleanup-flyer.png)
 
 ### **Background to the event**
 
@@ -165,12 +169,14 @@ Thomas Randall “Randy” Hall, Akwesasne Mohawk Wolf Clan, passed away on Janu
 
 **Hampton Inn Syracuse Clay** 
 
-Wooden Stick Festival (hilton.com)
+Wooden Stick Festival. [hilton](https://(hilton.com)
 
 **Hampton Inn & Suites Carrier Circle**
 
-Wooden Stick Festival (hilton.com)
+Wooden Stick Festival [hilton](https://(hilton.com)
 
 
 ## Press Release
 <!-- Send out Press Release -->
+- [EIN Newswire](https://www.einpresswire.com/article/933731100/11th-annual-haudenosaunee-wooden-stick-festival-weekend-september-11-13-at-onondaga-lake)
+- [EIN Newswire - Alfie Jacques Award](https://www.einpresswire.com/article/933702875/dom-starsia-michael-kennedy-and-mike-kanatakeron-mitchell-named-2026-recipients-of-the-alfie-jacques-ambassador-award)
